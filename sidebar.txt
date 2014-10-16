@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bni:home|Door43 (bni)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bni|d43-bni repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bni/archive/master.zip|d43-bni.zip]]
+
+**Recent Changes**
+{{changes>ns = bni}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bni|Ethnologue data]]
+
