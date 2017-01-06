@@ -1,4 +1,1884 @@
-====== Door43 (bni) ======
+\id 02EXO Exodus - Bobangi [bni] Bangi - Equateur
 
-Welcome to Door43! Please feel free to [[?do=edit|edit]] this page in your own language. More information about how to get started can be found [[en:get-started|here]].
+\ide usfm “Export to File” from translationStudio
+
+\sts First draft through verse-by-verse check of Exodus, MAST, Kinshasa, 4-16 April 2016 - Needs to move on to community check
+
+\rem From Unlocked Literal Bible
+
+\rem Association Congolaise pur la Traductions de la Bible (ACTB) - Contacts: Stanislas Nzita nzitastanislas@hotmail.fr and Melhase Belanga melhasebel@yahoo.fr
+
+\rem Missing verses 8:29-32, 24:1-18, 28:1-43, 30:1-39:43 need to be translated into Bobangi
+
+\rem Versification (\v) needs to be placed in the following text block
+
+\rem Paragraphing (\p) needs to be inserted and checked for Bobangi
+
+\rem Subtitles (\s) need to be translated, inserted, and checked for Bobangi
+
+\rem Quotation marks need to be checked for use and matched pair
+
+\h Exode ?
+
+\toc1 Exode ?
+
+\toc2 Exode ?
+
+\toc3 exo
+
+\mt Exode ?
+
+\c 1
+
+\v 1
+
+\v 2
+
+\v 3
+
+\v 4
+
+\v 5 Mapimela minyoko mi ba isalael o ezipeto bokeka mina bana ba Yisalaele bayeteli o Ezipeto mputa na Yakobo mpe mabota ma moko na moko o bango. Lubena, Simeona, Lewi, Yuda, Isakala, Zebulona, Benyamina, Dana, Nefitali, Gadi mpe Asele. Bato bancoki babotibwi na Yakobo baliki o motuya mo nyuncambo. Yosepa azalaki ongo o Ezipeto kuma kala.
+
+\v 6
+
+\v 7 Yosepa awi, mpe na biboto biyeye bincoki, mpe na bancoki, bazalaki mputa na yeye. Bana ba Yisalaele baboti be, mpe motuya mo bango mobuli bobulaka; bayeteli bayike mpe na nguya ekoti be yeka nonyalisa monce.
+
+\v 8
+
+\v 9
+
+\v 10 Mokonzi mosiso apimi o monce mo Ezipeto, onya oliki nde oyeba Yosepa te.
+
+Alobi ombe bato baye ete: bokeka bana ba Yisalaele baka bayike mpe na nguya be nopita biso. loke ! lolakisa o miso ma bango ete biso longa na nguya; lobayeka nobula nobula bisa na boyike mpe ndiki etumba nopima, bazala nde oputana na ba biso te na ntina e lobunisa mpe nkani nopima o Ezipeto.
+
+\v 11
+
+\v 12 Bongo bateli bantangi nokengele bana ba Isalayele na ntin'e banyokolo na ntomo likoti nopita; mpe batongeli Falo mboka line liye: Pitomi na Lamasese. ncoki ekonyokwibwa bango motuya mo bango mokobula se bobulaka. Zambi linya libendi loyino lokoti
+
+\v 13
+
+\v 14 Bana ba Ezipeto babandi notuka bana ba Yisalayele yeka nobawelisa o bontamba. Babulisi monyoko na ntomo likoti li yoma babiliki ba maleba mpe na ntomo li masala. Mancoki makelibwaki se na elango ekoti be.
+
+\v 15
+
+\v 16
+
+\v 17 Eliki na babotisi ba Bene babale ba baebele, mina ma bango Sifala na Puwa. Mokonzi o Ezipeto abalobeli ete: ekobotisa bino bene ba Yisalaele, ndiki mwana okobotibwa anga bwele bomoboma; nde ndiki anga mwana o mwene bomotika. Nde babotisi ba banya, etosaki bango Nyambe, baboyi nokela malobi mokonzi, batikaki bana banya na bomoyi.
+
+\v 18
+
+\v 19 Mokonzi o Ezipeto abiangi bene banya mpe abalobeli ete: bokeli bongo na nde, botiki bana banya na bomoyi ? Babotisi ba bene bamobekoli ete: Bene ba Bayuda banga kako na ba Ezipeto. bango banga bakoti, bakobota bangome nani mobotisi toyetela.
+
+\v 20
+
+\v 21
+
+\v 22 Nyambe ayeyi babotisi ba bene mpe libota li Yisalayele libuli na boyike . Esili babotisi ba bene notosa Nyambe, Ye ayeyi ndako li bango.
+
+Bongo Falo apesi mobeko ete: babwaka o mayi mwana o ncoki o bwele okobotibwa, mpe batika na bomoyi bana ba bene.
+
+\c 2
+
+\v 1
+
+\v 2 mabotibwela mambe Mosi
+
+Bwele moko o libota li balewi abali mwene o molewi. Mwene onya aweli moyi mpe aboti mwana o bwele. eboni ye ete aliki molamu be, amobombi biyeli bisato.
+
+\v 3
+
+\v 4 Eliki ye bisa toyisa no mobomba, amolengeli eyalo e mabuka na mwango molamu. Ateli mwana omoyi mpe amobombi o bikoko, yeka o ebale. Nkana e ye amokengeleki mwa tango mpe noyeba zambi nde likoyisa nomoyenela.
+
+\v 5
+
+\v 6 Mwana o mwene ombe Falo asundi o libongo mputa na bitonga biye nososa, etambolaki bango yeka yeka na ebale aboni eyalo e mabuka o ntantei e bikoko mpe atindi mosali oye o mwene nokula yengo. Ye aliboli eyalo e mabuka enya, obonimwana o bwele akolela. Amoyokeli mawa mpe alobi: enga mwana o Baebele !
+
+\v 7
+
+\v 8 Bongo nkana eye alobeli mwana ombe Falo ete: okolinga ete nake nokotombela mwene moko o Moebele anwangisela yo mwana oyo ? Mwana ombe Falo alobeli ye ete, keke. Bongo nkana e ye akinobianga se mama embe mwana onya.
+
+\v 9
+
+\v 10 Mwana ombe Falo alobi na ye ete: kwa mwana oyo, mpe nwangisela ngai ye nakokoyuta. Bongo mwene onya akuli mwana n'etondo e mo nwangisa. Esili mwana noyola, aki na ye nomopese ombe mwana ombe Falo, bongo mwana ombe Falo amopesi lina Mosi, lingo likolakisa ete amolungola o mayi (amokula o mayi).
+
+\v 11
+
+\v 12 Esili Mosi noyola, aki nokeka libota li ye (biboto bi ye) mpe aboni ntomo likoti liliki biboto bi ye basalaka. Mpe ye aboni Moezipeto akobete Moebele moko. Ye akeki lokenge na lokenge (zonga zonga) aliki nde obono moto te, abami Moezipeto mpe amokundi.
+
+\v 13
+
+\v 14 Lobi abimi aboni Baebele babale bakoyomana alobeli onya oliki na ebudwa ete: ntina nde okobete moninga oyo? bongo moto onya amobekoli ete: moto na oliki okopese monkande mozala ntangi mpe bisa zuzi e biso ? Okokanisa (okolinga) no mboma, s'ete nde ebomi yo Moezipeto? Mosi ayoki bongo, mpe alobi ete: se solo zambi liyebani.
+
+\v 15
+
+\v 16
+
+\v 17 Zambi liliki lileka liyebani ombe Falo, mpe asotombono na Mosi n'etondo e moboma. Bongo Mosi akotoli Falo,mpe aki nobombana o monce mo Madiana bele - bele na libela li mayi. motumbi mbeka o Madiana aliki na bana ba bene ncambo. Baliki bake notoka notoka mayi, n'etondo epese o botonga bo Bibwele bimbe Sango e bango mpe bisa n'etondo enyalisa ba ndungu liliki na Bango. Babateli ba Mbata bayeteli mpe ba babengisi na bongo baliki bosungibwaka na Mosi nowela aliki se banda angani. Mpe abasungi nopese Bibwele bi Bango mayi ma nwa.
+
+\v 18
+
+\v 19
+
+\v 20 Ebutwi bango ombe Sango LUELE abalukisi ete: lelo bobutwi bwalo be na nde ? Bamobekoli ete: Moezipeto moko alokosoli o maboko mambe Babateli Mbata, alotokeli mayi, mpe anwisi na Bibwele bi Biso. Sango e bango alukisi bana baye ba Bene ete: Mot'onya anga wani ? ntina nde botiki Mot'onya ake ? Bobianga ye aya nokula mwa eloko ele (boli)
+
+\v 21
+
+\v 22 Mosi akuli mokano (ayangi mwango) mozala mputa na mot'onya, mpe ye amobalisi mwana oye o Mwene onga lina Sipola. Mpe aboti mwana o bwele, Mosi amopesi lina Guelesome mpe ye alobi b'ete nakozala o monce mo bobutu.
+
+\v 23
+
+\v 24
+
+\v 25 Misa mayike maleki, Mokonzi o Ezipeto awi Bana ba Isalayele babutwi bisa se o monyoko mokoti mpe balelaki se bolelaka, bilelo bi bango biyeteli ombe Nyambe. Mpe Nyambe ayoki bilelo bi Bango, akanisi bisa boyokani boliki akela na Abalayama, Yisaka, na mpe Yakobo. Nyambe akeki Bana ba Yisalaele, mpe abayokeli molika.
+
+\c 3
+
+\v 1
+
+\v 2
+
+\v 3 Mosi abatelaki botonga bo Bibwele bimbe bokoyi boye Yetelo motumbi o mbeka limbe ba Madiana (miboma, mbeka), mpe na mpokwa ekambaki ye botonga boye bo Bibwele ayeteli o HoLebe ngomba embe Nyambe Ntoma embe Nyambe amopimeli o eloli e meya o ntantei e esasake. Mose aboni esasake ekola meya nde enga tolika.
+
+\v 4
+
+\v 5
+
+\v 6 Mose alobi: Namobutwa nokeka zambi liye line ete esasake ekola nde enga tolika. Eboni Yawe ete azengwi nososolo zambi linya. Amobiangi o ntei eloli e esasake ete Mosi ! Mosi ! mpe Ye amobekoli Ngai y'oyo amolobeli: tobeleme awa, longola Bikoto Biy'omakolo nowela nongo eye enga yo enga nce e bule. mpe bisa ayaki ete: Ngai nanga Nyambe embe Sango eyo, Nyambe embe Abalayama, Nyambe embe Yisaka, Mpe Nyambe embe Yakobo. Mosi obombi elongi eye nowela ayoki Nyambe bongo.
+
+\v 7
+
+\v 8 Yawe ete: Ngai naboni minyoko mimbe mi bato ba Ngai o Ezipeto, mpe nayoki bilelo bi Bango, mpe na bonyokibwi bo Bango o monce mo Ezipeto. nasundi no Bayelola o bontamba, mpe no bapese monce mone mpe molamu mokokundwa miliki na boyi bo Nzwi na sei; o ese e basi Kanana, basi Etileni, Basi Amoleya, basi Pelediani, basi Eweni, mpe basi Yebuseni.
+
+\v 9
+
+\v 10 Nayoki minkima na bilelo mpe na minyoko bi ba Isalayele o mboka e Ezipeto. Sik'awa keke. namokotinda ombe Falo, mpe okoyelola libota li Ngai o bontamba bo Ezipeto, ba Yisalayele.
+
+\v 11
+
+\v 12 Mose alobi na Nyambe ngai, mpe na ete: nayisa noke ombe Falo mpe nobimisa bana ba Yisalaele o Ezipeto ? Yawe amobekoli: " Nakozala mputa na yo mpe keka elembo ete enga ngai moto okokotinda: elembe ekopimisa yo ba Yisalaele o Ezipeto, bokosanzola Ngai o ngomba eye".
+
+\v 13
+
+\v 14
+
+\v 15 Mosi amobekoli: namoke ombe ba Yisalaele nobayebis'ete: "Nyambe e bankoko ba bino atindi ngai ombe bino bongo ndiki balukisi ngai lina li Yo, nababekola nde ?" Obabekola : Ngai nanga Onya okozala. Mpe bisa akibisi ete obayebisa: "Onya Okozala antindi ombe bino". Bongo Nyambe amoyebisi: " okoyebisa ba Yisalaele: Yawe mozalisi, Nyambe e ba Sango ba bino, Nyambe embe Abalayama na Yisaka mpe na Yakobo Antindi ombe bino. Enga lina li Ngai LiYekiLi Ye( Bobelele) likoyindolaka bino ngai bilembe binco.
+
+\v 16
+
+\v 17
+
+\v 18 Keke noyonginya Ba nkonwa banco ba Yisalaele, obayebis'ete: Yawe mozalisi, Nyambe e ba Sango ba bino, abononi na ngai, Nyambe embe Abalayama na Yisaka mpe na Yakobo. Bongo andobeli ete: "Naboni monyoko mo bino o bontamba bo Ezipeto mpe nakani noboyela". Bongo nakuli mokano mobolongola o bontamba bo Ezipeto, o minyoko, mpe boke o monce mopesi ngai bino okanana, o monce mo basi Etine, basi amoleya, basi Felesiye, basi Ewine mpe basi Yebusine, o monce mokozala bango sei, monce mokokundwa miliki na boyi bo nzwi. Bakotosa makoloba yo na bango, bongo yo na ba nkonwa ba Yisalaele boko ke ombe Falo nomoyebis'ete: "Yawe mozalisi, Nyambe embe ba Yisalaele alopimeli mpe aloyebisi loloba na yo opese biso ba Yisalaele epose lotambola mikolo misato o esobe lotumbela Yawe moizalisi mbeka, Nyambe e biso.
+
+\v 19
+
+\v 20
+
+\v 21
+
+\v 22 Nakoyeb'ete Falo ndiki anga nde obono mpapo li nguya e Ngai te, akoboya noboyokela. Nakosembola loboko lo ngai mpe na bete Ezipeto mpe na mo basusola na mpapo likoti, n'etondo ete ba bopimisa o bontamba. Nakobokela ngolu embe bato ba Ezipeto ete: bazala nde obopimisa maboko mpamba te. Mwene onco akotombo ombe moninga okozala banda na ye mpe onya okozala mputa na ye ndungu (liloko) li wolo mpe na bilamba bikoswisa bino bana ba bene na ba bampele. Bongo, bokoyosolo bokuli bonco bo bato ba Ezipeto.
+
+\c 4
+
+\v 1
+
+\v 2
+
+\v 3 Mosi abekoli: " keka bakozala toyokela ngai mpe bakoboya noyoka ncoki likingo li ngai. Nde ba kolob'ete: Yawe aliki nde ongondwa na yo te". Yawe amolobeli: okokata eloko nde o loboko loyo ? Amobekoli: lingenda. Yawe alobi bwaka lingo o nce. Abwaki lingenda o nce mpe lizengwi moseme. Mosi asuswi mpe akotoli moseme.
+
+\v 4
+
+\v 5 Yawe alobi na Mosi: sembola loboko lo yo mpe kata moseme o mpasa. Asemboli loboko mpe akati moseme o mpasa, mozengwi lingenda o maboko ma ye. Yawe amolobeli enga mpapo ekokela yo n'etondo elakis'ete otindibwi na ngai Yawe Nyambe basango ba bango, nakoyeneli, ngai Nyambe Abalayama na Yisaka mpe na Yakobo.
+
+\v 6
+
+\v 7 Yawe mozalisi amolobeli bisa: tele loboko loyo o ntolo. Bongo ateli loboko loye o ntolo mpe elongoli ye longo loboko loye lonco lobebi na bwale bo maba mpe lozengwi mpumpu lokola mose mo mbula. Yawe amoyebisi: butinya loboko loyo o ntolo. Abutinyi loboko loye o ntolo mpe elongoli ye loboko lobutwi peto.
+
+\v 8
+
+\v 9 Yawe amoyebisi ndiki bazali tokoyambela o elemako e boso bakoyamba o elembo e bosuku. ndiki baboyi nokoyokela weki o elemako e bibale, okwa mayi ma ebale oyita mango once mpe mango makozengwa malongo o nce.
+
+\v 10
+
+\v 11
+
+\v 12
+
+\v 13 Bongo Mosi alobi na Yawe :ah! Nkolo nanga moto onga na bolobi bolamu te kuma kala, ekoloba yo na ngai mosali oyo, nanga nde oyisa nokobekola na nyonyo te; nowela nanga na lonkukuma. Yawe amobekoli: munya mo moto mokelibwi na na ? ekoyetisa moto e bubu soko mpe okosengisa moto boboni na ? Ony'okopese bolobi soko nosengisa bolobi enga na ? Enga ngai Yawe te ? Nakokotinda sik'awa nakozala nayo mpe nakokopese maloba makoloba yo na ye. Mosi amobekoli: ah ! Nkolo, tinda mot'onco okobioko yo notinda.
+
+\v 14
+
+\v 15
+
+\v 16
+
+\v 17 Bongo Yawe ayakwi na Mosi mpe alobi: y'onga eboto embe Alona na Lewiti te? Nakoyebete anga na bolobi bolamu. Keka y'onya akoya, anga oboso bo yo, ekobono ye yo akoyoka esengo omoloko mo ye. Okoloba na ye mpe okomopese maloba makoyisa ye noloba. Ngai na munya mo yo na mo ye mpe nakobolakisa maloba makokomo bino noloba mpe manco makokomo bino nokela. Akozala molobeli oyo o boso bo likongo linco mpe yo okozala lokola Nyambe, onya okotinda ntete asakola makoloba ye. Kwa lingenda liye, okokela mpapo na lingo.
+
+\v 18
+
+\v 19
+
+\v 20 Mosi abutwi ombe bokoyi boye Yetelo amolobeli be: tika ngai nake nongodwa na biboto bi ngai o Ezipeto mpe noyeba ndiki banga na bomoyi. Yetelo: y'ete keke na nyile. Yawe alobi na Mosi o madiani ete keke: butwa o Ezipeto nowela banco baliki bakana nokoboma bawi. Mose akuli mwasi oye na bana abati na bango o mpunda babutwi o Ezipeto. Akati oloboko loye lingenda limbe Nyambe.
+
+\v 21
+
+\v 22
+
+\v 23 Yawe alobi na mosi ete: ekobutwa yo o Ezipeto okela mpapo lilakisi ngai yo oboso bombe Falo. Nakoyesa moloko moye mokoti azala nde opese bango epose epima te. Yo okoloba na Falo ete, Yawe mozalisi alobi be ete: Yisalaele anga mwana ongai o boso. Nakokoyebisa tika mwana o ngai ake noncalela. ndiki yo oboyi nobatika bake, ngai na koboma mwana oyo o bwele o boso.
+
+\v 24
+
+\v 25
+
+\v 26 Ebembaki ye na mokolo Nyambe amoputemeli mpe alingaki no moboma. Sipola akuli libwa li mpia mpe aketi ngenga e mwan'oye mpe abwaki yengo o makolo mambe Mosi; mpe alobin ete: yo onga ombe ngai mobali o malongo ! mpe Nyambe amotiki. Yengo enya alobi ete yo onga mobali o malongo n'etondo e ngenga.
+
+\v 27
+
+\v 28 Yawe alobi na Alona ete keke o esobe o boso bombe Mosi alona mpe aki o ngomba embe Nyambe no ngondwa na Mosi mpe amopwepwi. Mosi mpe asakoli Alona maloba manco maliki Yawe amotinda, mpe na bilembo binco biliki Nyambe amolakisa akela.
+
+\v 29
+
+\v 30
+
+\v 31 Mosi na Alona batamboli nzela mpe bayonginyi bampomba ba bana ba Yisalaele. Alona abasakoli maloba manco maliki Yawe aloba na Mose, mpe nomekola bilembo binco o miso ma bango. mpe bato bayambi. Bongo bayebi ete Yawe ayeneli bana ba Yisalaele mpe aboni minyoko mi bango: mpe bayinami mpe bamokumbameli.
+
+\c 5
+
+\v 1
+
+\v 2 Mosi na Alona baki ombe Falo bamolobeli: Yawe Nyambe embe ba Yisalaele akoloba ete: tika libota li ngai like o esobe nosanzola Ngai mpe nonkelela elambo. Falo abakoli ete: Yawe anga na ete ngai na yisa notosa likingo li ye notika bana ba Yisalaele bake ? Nanga nde oyeba Yawe te, mpe nakozala nde otika ba Yisalaele noke te.
+
+\v 3
+
+\v 4
+
+\v 5 Balobi ete: Nyambe embe ba Ebele alopimeli. Tika biso loke notambola mikolo misato o esobe lotumbela Yawe mbeka kani ye nolobwakela bwale bo bombanda soko mpe noloboma na mopata. Bongo mokonzi o Ezipeto abalobeli ete ntina nde Mosi na Alona botiki nosalisa libota (likongo) ntomo ? Bobutwa nosala ntomo.
+
+Falo alobi ete : keka libota liye likobula se bobuluka o monce mo biso, bokete nani ntomo libango !
+
+\v 6
+
+\v 7
+
+\v 8
+
+\v 9 Se o busa bonya Falo ayebisi bakapita (bakengeli) mpe na bakongi bango ete: bozala nde opese bisa ndele ombe ba Yisalaele lokola ekelaki bino o yambo te n'etondo ebete ba baliki; tika bake bangome nolungola ndele. Bokelisa bango babete biliki se o motuya mobeteki bango o yambo, bazala nde osundisa motuya te nowela, banga ba goigoi; yengo enya bakolelabana bolobaka ete loke notumbela Nyambe e biso mbeka. Bonyokolo bango na ntomo nopita, bapaka se nosala mpe batika maloba ma lokuta.
+
+\v 10
+
+\v 11 Bakapita na bakongi bayi noyebisa libota ete: eye enga maloba mambe Falo: "nakozala tobose ndele; Bokeke binome botombo ndele onongo enco ekokula bino, nowela ekozala nde osundisa lotomo lo bino te.
+
+\v 12
+
+\v 13
+
+\v 14 Libota lincakani o monce monco mo Ezipeto, epose elungola ndele, bango balungoli ncolu. Bakapita babakelisaki ntomo na bokoti bolobaka ete: bosilisa ntomo li busa na busa lokola esalaki bino na ndele. Bakapita bambe Falo babeteki ncoki Bakongi ba bana ba Yisalaele bolobaka ete: boni boni lobi na lelo bonga bisa toyisa nokokisa motuya mo biliki mobeteki bino busa na busa lokola esalaki bino o yambo ?
+
+\v 15
+
+\v 16
+
+\v 17
+
+\v 18 15 16 18 17 Bakongi ba bana Yisalaele baki nolelabana ombe Falo, mpe balobeli: boni boni okonyolo basali bayo lolenge loye ? Anga bisa nde opese ndele ombe basali baye te, nde bakololobela ete lobete ba biliki ! Keka basali bayo bakobetibwa se na mpamba. Falo ababekoli"bino bonga ba goigoi, ba goigoi ! yengo enya bokoloba ete: loke no tumbela Yawe - Nyambe mbeka !" Sik'awa, bokeke nosala: ndele likozala tobopesibwa bokobete se motuya mo baliki linya libeteki bino.
+
+\v 19
+
+\v 20
+
+\v 21 19 Eboni bakongi ba bana ba Yisalaele ete bakobanyokolo bolobaka ete: 20 Busa na busa na lotomo lo longo mpe bisabozala to sokemisa motuya mo biliki. Ekumi bango ombe Falo nopima, bangondwasani na Mosi ye na Alona ba balembisaki. 21 Balobeli Mose na Alona ete: Yawe akobono mpe azala motendi ! Biso loyinibwi na Falo mpe basali baye na ntin'ebino, mpe boteli mopata o maboko ma ye n'etondo aloboma.
+
+\v 22
+
+\v 23 Mosi abutwi ombe Yawe alobi ete: boni boni okeli bobe o libota liye ? ontindi na nde ? Kuma entindi yo ombe Falo nomoyebisa malobi yo, ye akokela se linkindi mpe akobakelela se bobe, mpe yo onga toyelola libota liye.
+
+\c 6
+
+\v 1 Yawe alobeli Mose ete: okobono sik'awa makokela ngai na Falo. loboko loko lo nguya lokomotinda abatika bake, loboko loko lo nguya loko mopusa nobabengisa o monce mo ye.
+
+\v 2
+
+\v 3
+
+\v 4
+
+\v 5 Nyambe alobi bisa na mosi ete: Nanga Yawe. Namibonisi ombe Abalayama, Isaka, Yakobo s'ete nde Nyambe ekopita nguya, nde nani nanga tolakisa ombe bango polele ete nanga Yawe. Nasili mpe nolengele boyokani na bango, nalaki bango ete nakobapese monce mo Kanana, monce moliki bango bazalaka lokola babutu. Nayoki minkima mi ba Yisalaele na bontamba bokobakelela ba Ezipeto, mpe nayindoli boyokani bo Ngai.
+
+\v 6
+
+\v 7 Na bongo loba na bana ba Yisalaele ete: nanga Yawe, nakobapusola o ntomo likobopese ba Ezipeto, Nakobopusola o bontamba bo bango mpe nakoboyelola na nguya mpe nabotendi bone. Nakobokula ete bozala libota li Ngai, nakozala Nyambe e bino, Mpe bino bokoyeba ete enga Ngai, Yawe Nyambe e bino, okobopimisa o ntomo likobopese ba Ezipeto.
+
+\v 8
+
+\v 9 Nakobowelisa o monce molaki ngai ombe Abalayama, Isaka na Yakoba; Nakobopese mozala mo bino, Ngai Yawe. Yengo enya Mosi aloba ombe bana ba Yisalaele, nde bokamakami bo bango na mpasi e bontamba e bayeki noyoka.
+
+\v 10
+
+\v 11
+
+\v 12
+
+\v 13 Yawe alobi na Mose ete: Keke oloba na Falo, mokonzi o Ezipeto ete atika bana ba Yisalaele bapima o monce mo ye. Mosi abekoli ombe Yawe ete: ba Yisalaele bazali ngai toyoka, bongo Falo akonzokela boni boni, ngai moto o lonkukuma ? Ncande Nyambe aloba ombe Mosi na Alona mpe abapese mosikiso n'etondo e bana ba Yisalaele mpe n'etondo embe Falo, mokonzi o Ezipeto ete apimisa bana ba Yisalaele o monce mo Ezipeto.
+
+\v 14
+
+\v 15 Keka bantangi ba mabota ma bango: Bana bambe Lubena, mwana o boso o ba Yisalaele: Enoki, Palu, Etelo na Kamili. Eye mabota makitani na Lubena.
+
+Bana bambe Simona: Yemuele, Yamina, Oyadi, Yakini na Tokali mpe bisa Sawulo, mwana o mwasi o ba Kanana.
+
+Eye mabota makitani na Simona.
+
+\v 16
+
+\v 17
+
+\v 18
+
+\v 19 Keka mina ma bana bambe Lewi, omilongo mi mabotibwela ma bango: Gelesoni, keyatili na melali. mibu mi bomoyi bombe Lewi miliki minkama monkama bweli na ncambo.
+
+Bana bambe Gelesone: Libini na Sikimeyi mpe na mabota ma bango.
+
+Bana bambe Keyatili: Amalama, Yiseyala, Ybeloni mpe Osiele. Mibu mi bomoyi bombe Keyatili miliki monkama bweli na lisato.
+
+Bana bambe Melali: Makili na Mosikili. Eye mabota mambe Lewi na bakitani ba ye.
+
+\v 20
+
+\v 21
+
+\v 22 Amalama abali Yokebedi, papa e mwene e ye mpe amoboteli Alona na Mosi. Mibu mi bomoyi bombe Amalama miliki monkama bweli na ncambo. Bana bambe Liseyala: Koli, Nefege, Zikili. Bana bambe Usiele: Misikaele, Elisapani na Sitili.
+
+\v 23
+
+\v 24
+
+\v 25 Alona abali Elisekeba, mwana ombe Aminadaba nkana embe Nakisikoni mpe amoboteli Nadaba, Abeyu, Eleyasala na Itamala.
+
+Bana bambe Koli: Assili, Elikana na Abilasafi. Eye babota makitani na Koli.
+
+Eleyasala mwana ombe Alona abali moko o bana ba bene bambe Putiele mpe amoboteli Fineyasi. Eye bantangi ba mabota ma ba Lewi mputa na mabota ma bango.
+
+\v 26
+
+\v 27 Enga awa Alona na Mosi banya baliki Nyambe aloba: bopimisa bana ba Yisalaele o Ezipeto bobilanaka na mampinga ma bango.
+
+Enga bango baliki baloba na Falo, mokonzi o Ezipeto na ntina e pimisa bana ba Yisalaele o Ezipeto. Enga awa Mosi monya na Alona enya.
+
+\v 28
+
+\v 29
+
+\v 30 Elembe eliki Nyambe aloba na Mosi o monce mo Ezipeto, Aloba na ye: ''Nanga Yawe. Loba na Falo, Mokonzi o Ezipeto manco makoloba Ngai na yo. Mpe Mosi abekoli o boso bombe Yawe: keka, ngai nanga na lonkukuma, Falo akonzokela boni boni ?
+
+\c 7
+
+\v 1
+
+\v 2 Yawe akoloba na Mosi: Keka, nakeli yo ozala Nyambe embe Falo; mpe eboto e yo Alona, akozala ntete.
+
+Yo okoloba mancoki makokosikisa ngai mpe eboto e yo Alona akolobela Falo ete atika bana ba Yisalaele bapima monce mo ye.
+
+\v 3
+
+\v 4
+
+\v 5 Mpe ngai, nakoyeisa moloko mombe Falo mokoti, nakobulisa bilembo mpe mpapo li ngai o monce mo Ezipeto,
+
+mpe nakopimisa mampinga ma ngai, bato ba ngai mpe bana ba Yisalaele na botendi bone. O ndembe ekosembola ngai loboko o likolo li monce mo Ezipeto mpe nopimisa bana ba Yisalaele o monce mo bango, bana ba Ezipeto bakoyeba ete ngai nanga Yawe.
+
+\v 6
+
+\v 7 Mose mpe Alona bakeli mancoki mabasikisi Yawe; bakeli bongo.
+
+Mosi aliki na mibu lwasi mpe Alona mibu lwasi na misato o nkomo elobelaki bango Falo.
+
+\v 8
+
+\v 9
+
+\v 10 Yawe akoloba na Mose mpe na Alona:
+
+ndiki Falo akobolobela mpe akobotinda ete: Bokela mpapo mpapo yoko ! Yo Mose okoloba na Alona ete: Kwa montonga mo yo mpe bwaka mongo o boso bombe Falo. Mokozengwa moseme.
+
+Mose mpe Alona baki ombe Falo, mpe bakeli ma basikisi Yawe. Alona abwaki montongo mo ye o boso bombe Falo mpe o boso bo basali ba ye; mongo mozengwi moseme.
+
+\v 11
+
+\v 12
+
+\v 13 Falo mpe abiangi bato ba mayele, bato bakobono mambi makoya mpe banya bakokela ma mpapo ba Ezipeto; bango mpe bakeli bango na mpapo li bango.
+
+Babwaki mintongo mi bango mpe mizengwi miseme. Nde montongo mombe Alona momini minyia mi bango mincoki.
+
+Moloko mombe Falo monyali bisa na Nkelele mpe moyi bisa bokoti nopita. Aboyi noyoka mamolobelaki Mose mpe Alona lokola ebasikisi Yawe.
+
+\v 14
+
+\v 15 Yawe akolobela Mosi ete: moloko mombe Falo mokobula se bokoti: akobaya notika bato ba Yisalaele bapima.
+
+Keke ombe ye na ntongo; akopima noke balebele na mayi, mpe yo ongondwa na ye o nkako e ebale. Okokata o loboko lo yo montongo monya mozengwi moseme,
+
+\v 16
+
+\v 17
+
+\v 18 Mpe okolobela Falo ete Yawe Nyambe e Baebele atindi ngai ombe yo nokolobela be: Tika bato ba Ngai bapima, bake noncalela o esobe. Nde yo onga toyoka yeka bo lelo. Bongo Yawe akoloba be: O maye okoyeba ete ngai nanga Yawe. Namobebisa mayi ma ebale na montongo moye monga o loboko lo ngai, mpe mayi makozengwa malongo.
+
+Ncu li ebale likowa, ebale ekbeba mpe bana ba Ezipeto bakozala nde oyisa nomwa mayi ma ebale te.
+
+\v 19 Yawe akoloba na Mosi ete alobela Alona be: Kwa montongo mo yo, mpe sembola loboko lo yo o likolo li mayi ma ba Ezipeto, o likolo li miliba, o likolo li misolo, o likolo li mincongo mpe o nongo lincoki li mabana ma mayi. Mayi makozengwa malongo mpe monce moncoki mo Ezipeto mokonyala na malongo, ncoki na bikutu na bankala.
+
+\v 20
+
+\v 21
+
+\v 22 Mosi mpe Alona bakeli ma basikisi Yawe. Alona anetoli montongo, mpe abeti o mayi ma ebale, o miso mambe Falo mpe o miso ma basali ba ye; mpe mayi mancoki ma ebale mazengwi malongo.
+
+Ncu lincoki li ebale liwi, ebale ebebi, bato ba Ezipeto baliki nde oyisa bisa nonwa mayi ma ebale te, mpe monce moncoki mo Ezipeto monyali na malongo.
+
+Bakeli bampapo ba Ezipeto bakeli se bongo na bolanda bo bango. Moloko mombe Falo mobuli bisa bokoti, aboyi noyoka mamolobeli Mose na Alona lokola ebasikisi Yawe.
+
+\v 23
+
+\v 24
+
+\v 25 Falo aboni manya mancoki mpamba; abutwi o ndako e ye; aliki nde okanisa mambi manya o moloko mo ye ncoki na mwa te. Bana ba Ezipeto batimi mabela belebele na ebale na ntina ekwa (notoka) mayi manwa, nowela baliki nde oyisa nonwa mayi ma ebale te. eleki mikolo ncambo, esili Yawe nobebisa ebale. Yawe alobi na Mose ete ake ombe Falo mpe amolobela ete Yawe akoloba be: Tika bato ba ngai bake na ntina ete bancalela. Ndiki oboyi noke, nakopese etumu e mangoku o monce mo yo moncoki.
+
+Ebale ekonyala na mangoku; makowele o ndako e yo, o mosoko mo yo motutuma mpe o etuti e yo, o ndako e basali ba yo bancoki mpe o ndako li bato ba yo, o nongo li kotumba bino mampa mpe o nongo lincoki li konyila bino fufu e mampa. Mangoku makobata o nzoto li yo, o nzoto li basali ba yo bancoki.
+
+\c 8
+
+\v 1
+
+\v 2
+
+\v 3
+
+\v 4 1 Yawe mozalisi alobi na Mosi: sakola Alona:" sembola loboko loyo na lingenda olikolo li miliba, misolo, mpe na mincongo, bongo botsakinya mangoku o monce monco mo Ezipeto.
+
+\v 2 Alona asemboli loboko loye o likolo li mayi ma Ezipeto; bongo mangoku manyangi monce mo Ezipeto. 3 Nde bakeli ba mpapo, bamekoli ye mpe bapimisi bisa mangoku manyangi monce mo Ezipeto monco,
+
+\v 4 Falo abiangi Mosi mpe Alona nobalobela maye: Bobondela Yawe Nyambe ete atangola mangoku maye na ngai mpe na bana ba Ezipeto; angani nakobotika boke o esobe mpe botumbela Yawe mbeka.
+
+\v 5
+
+\v 6
+
+\v 7 Mosi alobi na Falo: se y'ome onzebisa na polele elembe nde ekolinga yo ete ngai na bondela Yawe Nyambe n'etondo eyo na ba mpende ba yo, mpe na ba Ezipeto banco ete: ayisa n'otangola na yo mpe na ba ndako li yo, mangoku ? etikana se mangoku manya manga o ebale. Amobekoli: se o busa bo lelo. Bongo Mosi alobi: makelibwa se lokola elingi yo n'etondo oyeba ete: enga na moko okokokana na Yawe Nyambe e biso te. Mangoku mamotangwa na yo mpe na ba mpende ba yo, na ba ndako li yo, na ba Ezipeto banco; ekotikana se manya manga o ebale.
+
+\v 8
+
+\v 9 Mosi na Alona bapimi o ndako embe Falo. Bongo Mosi, abondeli Yawe n'etondo e mangoku matindibwi na Yawe ombe Falo.
+
+Mpe, Yawe ayoki lobondela lombe Mosi, mangoku manco mawi, o ba ndako, o ndanda enco mpe o masala.
+
+\v 10
+
+\v 11
+
+\v 12 Bawonzaki mango bituluku na bituluku (mabondo na mabondo) mpe eleto eyi o monce mo Ezipeto.
+
+Eboni Falo bongo, akangi bisa moloko, noboya notosa Mosi na Alona na lolenge lolobi Yawe.
+
+Yawe alobi na Mosi: loba na Alona: sembola lingenda li yo mpe bete o nzelo. Nzelo likoze likozengwa ncisa o monce monco mo Ezipeto.
+
+\v 13
+
+\v 14
+
+\v 15 Bakeli se bongo, Alona asemboli loboko loye, na lingenda mpe abeti o nzelo (nce); bongo nzelo lizengwi ncisa linyangi bato na bibwele.
+
+Nzelo linya li mboka lizengwi ncisa linyangi monce monco mo Ezipeto. Bakeli ba mpapo ba Ezipeto bapisi mpe libango ncisa, libengisa ncisa lipimisi Alona nde, baliki toyisa. Ncisa linyangaki bato na bibwele se bonyangaka. Bakeli ba mpapo balobi na Falo: "enga loboko lombe Nyambe ( enga nguya embe Nyambe)". Ncande Yawe ayetisi moloko mombe Falo mokoti. azala toyoka makoloba Mosi na Alona, lokola elobi ye.
+
+\v 16
+
+\v 17 Yawe alobi na Mosi: lobi osekwa na mobutu oke nongondwa na Falo oboso boye nosunda olibongo. Bongo loba na y'ete: atika libota li ngai like nosalela ngai.
+
+Ndiki aboyi nobatika nakotinda biyisi ombe banco banga zongazonga na ye, ombe bato ba Ezipeto banco mpe o ndako li ye. Bakonyanga ndako linco li bato ba Ezipeto mpe monce monco.
+
+\v 18
+
+\v 19 Bongo obusa bonya, nakoyelola monce mo Guzeni mokozala ba Yisalaele, ongo ekozala na biyisi te bongo, okoyeba ete ngai Nyambe na nga mputa na bino o monce mo Ezipeto. Nakokala libota li ngai, na libota limbe Falo. elembo enya ekobanono lobi.
+
+\v 20
+
+\v 21 Yawe akeli lokola elobi ye, mpe biyisi biyike binyangi ndako embe Falo na basali ba ye, mpe monce monco mo Ezipeto monyangibwi na biyisi. Falo abiangi Mose na Alona mpe abayebisi ete:" bokeke, botumbela Nyambe e bino mbeka ongo".
+
+\v 22
+
+\v 23
+
+\v 24 Mosi amobekoli: ekozala toyisibwa nokela lolenge lolobi yo; nowela: ekozala mbeka ekosenga noyeyibwa na Yawe na Nyambe e biso, mpe ekozengwa bosoki n'etondo e bato ba Ezipeto. Bongo ndiki lotumbeli Yawe mbeka o miso ma bango, bato ba Ezipeto bakozala toloboma na mabwa? lokotambola mikolo misato o esobe mpe, lokotumbela Yawe Nyambe e biso mbeka lolenge lokoloba ye na biso. Falo alobi: '' nakobotika boke notumbela Yawe Nyambe e bino mbeka, bozala nde oke mosika te, bobondela mpe n'etondo e ngai."
+
+\v 25
+
+\v 26
+
+\v 27 Mosi amobekoli: ekopima ngai ombe yo, nakobondela Yawe, bongo lobi, biyisi bikolongwa ombe Falo na basali mpe bato banco ba Ezipeto. Bongo, Falo azala nde okutinya biso te, noboya notikela biso epose eke notumbela Nyambe e biso mbeka. Mosi apimi ombe Falo mpe, abondeli Yawe mozalisi.
+
+Yawe abekoli o lobondela lombe Mosi, mpe biyisi bitangwi na Falo, na basali ba ye mpe bato ba Ezipeto. eliki bisa na eyisi, ncoki yoko o ezipeto te.
+
+\v 28
+
+\v 29 Nde Falo bisa, akangi moloko moye mpe notika ba Yisalaele bapima noke o esobe. ???
+
+\v 30
+
+\v 31
+
+\v 32 ???
+
+\c 9
+
+\v 1
+
+\v 2
+
+\v 3
+
+\v 4 Yawe alobi na Mosi:"keke ombe Falo omoyebisa ete: elobi ngai Yawe mozalisi Nyambe e Baebele: tika libota li ngai bake nosalela Ngai''. Ndiki oboyi nobatika bake, okobasimbisa keka: nguya (loboko) lombe Yawe lokobebisa botonga boyo bo bibwele o masala, mpe ombe ba mpunda, na ba ngamala, na ba ngombe, na ba mbata, likozala na nowako mone. Yawe akokakola botonga bo ba Yisalaele mpe bo ba Ezipeto, akoboma se botonga bo ba Ezipeto.
+
+\v 5
+
+\v 6
+
+\v 7 Yawe abapesi nkomo ekokela ye zambi linya o mboka mpe alobi makokelibwa se bongo. mpe Yawe akeli se lokola elobi ye se na ntongo (lobi), bibwele binco bi botonga bo ba Ezipeto biwi. Nde ebwele ncoki yoko e ba Yisalaele eliki towa. Falo ayoki manco maleki ombe bango nde, ombe Yisalaele ncoki ebwele yoko ewa te. Nde Falo akangi se moloko mpe aliki nde tobatika noke.
+
+\v 8
+
+\v 9
+
+\v 10 Yawe alobi na Mosi mpe Alona: bonyalisa maboko ma bino na mpukutu li meya, mpe Mosi awulela lingo olikolo o miso mambe Falo. Likozengwa mibulu mikopoto Ezipeto enco, mpe ekopimisa eleto e matotibia mpe na biseke ombe bato mpe na bibwele binco bi ba Ezipeto. Mosi akuli mpukutu li meya baki na lingo oboso bombe Falo. Mpe abwaki lingo o boso bombe Falo. Bato banco bakoni bwale bo matotibia mpe na bibwele binco.
+
+\v 11
+
+\v 12 Bakeli ba mpapo baliki toyisa nongondwa na Mosi nowela bakuli eleto enya e matotibia mpe na biseke. Yawe ayeyisi se moloko mombe Falo mokoti ete azala toyoka makoloba Mosi na Alona. Nalonge lonco loliki Yawe asakola Mose.
+
+\v 13
+
+\v 14 Yawe alobeli Mosi ete: Teme na mobutu oke o boso bombe Falo yo okomolobela be: ekoloba Yawe Mozalisi Nyambe embe ba Yisalaele: tika bato ba ngai bake nosalela ngai. Nowela sik'awa Namobobwakela bileto ombe yo na basali ba yo mpe na bato banco. N'etondo oyeba ete enga nde na moko okoyulana na ngai once eye te.
+
+\v 15
+
+\v 16
+
+\v 17 Ndiki nasemboli loboko lo Ngai, mpe nakani nokobete na mowako olingaki nosinana yo na libota li yo once eye. Natiki yo n'etondo ebonisa lina li Ngai litatwibwa o molongo nzoku. Ndiki yo okotemela se libota li ngai, mpe okoboya no bamipisa,
+
+\v 18
+
+\v 19 Keka se o nkomo eye nakotombisa mbula e mise mikoti enga nani otomba o Ezipeto te, banda eliki molongo mozalibwa. Bongo Kengele bibwele bi yo na biloko bi yo binga o masala, nakonda mbula e mise etomba ombe bato banco na bibwele binco bi zamba biliki to telibwa o ndako bikowa.
+
+\v 20
+
+\v 21 Mwa basali banya bayoki munya mombe Nyambe bakotoli o ndako mputa na bibwele bi bango. Nde eliki na basiso banya baliki totosa maloba mambe Nyambe batiki bato ba bango na bibwele bi bango.
+
+\v 22
+
+\v 23
+
+\v 24 Yawe alobi na Mosi ete: netola loboko lo yo o likolo mpe mbula e mise ekotomba o nce monco mo ezipeto, yeka ombe bato mpe ombe biwele na nzembu linco li nce. Mosi anetoli montongo(lingenda) o likolo, mpe Nyambe abetisi nkake na mise mpe na meya mizongi nce enco. Atombisi mbula e mise o monce monco mo Ezipeto. Mbula enya etombi nani otomba o monce mo bango te.
+
+\v 25
+
+\v 26 Mbula e mise ebebisi masala manco o monce mo Ezipeto mpe kuma ombe bato weki o bibwele; mbula e mise ebebisi nzembu linco li masala mpe ebunyiki miete minco o masala. Mbula e mise eliki totomba se o monce mo Guzena, mboka ezalaki ba Yisalaele.
+
+\v 27
+
+\v 28 Falo abianga Mose na Alona mpe bayebisi: sik'eye ngai na soki mputa na libota li ngai, Yawe alongi mpe anga sembo, bongo ngai na libota li ngai lokitibwi. Bondela, Yawe Nyambe e yo, asilisa mbul' eye enkake na mise; namobotika boke mpe nakozala bisa tobosimbisa.
+
+\v 29
+
+\v 30 Mosi alobi na ye: ndiki napimi o mboka nkake na mise likosila. Bongo, okoyeba ete molongo monga mombe Nyambe. Nde ngai na koyeba ete yo na bato ba yo bonga Nyambe totosa
+
+\v 31
+
+\v 32
+
+\v 33 Mimboto misiso lokola tukia mpe na loso mibeba nowela mibandaka boboti: Nde misiso lokola masangu na sologo miliki towa nowela mibota na mbisa. Bongo mosi alongwi ombe Falo apimi o mboka anetoli maboko ma ye ombe Yawe, Nkake na mise misili.
+
+\v 34
+
+\v 35 Nde eboni Falo ete nkake na mise misili asoki bisa na ye na bato ba ye. Falo akangi se moloko mo ye bokoti mpe aboyi nopisa bana baYisalaele, se lokola elobi Yawe ombe Mosi.
+
+\c 10
+
+\v 1
+
+\v 2 Yawe akoloba na Mose: Keke ombe Falo, nowela nasili noyindisa moloko mo ye mpe mobasali ba ye, na ntina ete bilembo bi ngai bibinono o ntantei e bango. Enga mpe bisa na ntina ete yo oyebisa ombe mwana o yo, mpe ombe mwana o yo, lolenge lokeleli ngai bana ba Ezipeto, mpe bilembo bibonisi ngai o ntantei e bango. mpe bokoyeba ete ngai nanga Yawe.
+
+\v 3
+
+\v 4 Mosi na Alona baki ombe Falo mpe bamolobeli: Yawe, Nyambe embe Baebele akoloba be: Yeka (weki) nkomo nde ekoboya yo nosokeme o boso ba ngai ? Tika bato ba
+
+\v 5
+
+\v 6 Likopoto nce encoki yeka ete nce ezala bisa tobonono; likobebisa bincoki bikoszi o mbula enya ekoti; mpe likole miete mincoki mikobota o masala ma bino; likonyalisa ndako e yo, ndako li Baezipeto bancoki.
+
+\v 7
+
+\v 8 Basango ba yo mpe basango ba yo nani baliki tobono zambi liye banda ezali bango o molongo moye yeka o busa bo lelo. Mosi abendi nzoto, mpe apimi ombe Falo. Basali bambe Falo bamolobeli: Yeka nkomo ewani moto oyo akozala motambo na ntina e biso ? Tika bato banya bake, basalela Yawe, Nyambe e bango. Onga tobono ete Ezipeto ekoke o likamba ?
+
+Babutinyi Mosi na Alona ombe Falo, mpe babalobeli ete: Boke, bosalela Yawe Nyambe e bino. Nde ekoke na ?
+
+\v 9
+
+\v 10
+
+\v 11 Mose abekoli: Lokola na bana ba biso mpe na binkonda bi biso, na bana ba biso ba bampele mpe na ba bene, na mbata li biso mpe na ngombe li biso; nowela ombe biso enga elembe ebioki mputa mpe nonetola Nyambe. Falo abalobeli: Yawe azala mputa na bino, namobotika ete boke, bino mputa na bana ba bino ! Bozala na bobwakinyi, nowela bwale bonga o boso. Te, te; boke se bino bampele mpe bosalela Yawe, nowela enga bongo lolenge lotombi bino. Mpe bababengisi o boso bombe Falo.
+
+\v 12
+
+\v 13 Yawe alobi na Mosi: Sembola loboko lo yo o likolo li monce mo Ezipeto, nyanya likopima o likolo li monce mo Ezipeto; lile nzembu lincoki linga o nce, mpe libebisa bincoki bikoswi o mbula enya ekoti. Mosi asemboli montongo mo ye o likolo li monce mo Ezipeto, bokumaka o esete, mwese monya moncoki mpe mokolo moncoki. Eyeteli ntongo, mompe mo esete momemi nyanya liyike.
+
+\v 14
+
+\v 15 Nyanya liwumbwi o likolo li monce mo Ezipeto, mpe lipwamaki o nongo lincoki li Ewipeto. Motuya mo lingo moliki moyike be ete zambi li lolenge lonya nani linga tokelibwa mpe likozala bisa tokelibwa.
+
+Lipoti nce encoki mpe monce moncoki moliki o liti; lili nzembu lincoki li nce mpe mbolo lincoki li miete; bincoki bikoswi o mbula enya ekoti; mpe eliki nde otikana likasi lioko te o miete soko mpe o nzembu li masala, o ese encoki e Ezipeto.
+
+\v 16
+
+\v 17
+
+\v 18 Na bwalo Falo abiangi Mosi na Alona mpe alobi: Naosoko o boso bombe Yawe, Nyambe e bino mpe o boso bo bino. Bosabinya bosoki bo ngai lokwa loye; mpe bobondela Yawe, Nyambe e bino, ete alongola bisa eleto eye e liwa ombe ngai. Mosi apimi ombe Falo mpe abondeli Yawe.
+
+\v 19
+
+\v 20 Yawe atindi mompe mokoti bokumaka o wesete, momemi nyanya lincoki, mpe mobwaki lingo lincoki o libeke li Mondo; eliki nde na nyanya yoko te etikani o monce mo Ezipeto. Yawe ayeisi moloko mombe Falo se bokoti; mpe Falo aboyi notika bana ba Yisalaele bake.
+
+\v 21
+
+\v 22
+
+\v 23 Yawe alobi na Mosi: Sembola loboko lo yo o likolo, ete liti likoti linyala o monce mo Ezipeto mpe ete bato bayisa nokata lingo. Mosi asemboli loboko lo ye o likolo; mpe liti likoti linyali o monce mo Ezipeto, mikolo misato. Bato baliki nde obononoko, mpe moto moko te olongwi o nongo e ye, o ntantei e mikolo misato. Nde ncengi liliki o nongo lincoki lizalaki bana ba Yisalaele.
+
+\v 24
+
+\v 25
+
+\v 26 Falo abiangi Mosi mpe alobi: Bokeke, bosalela Yawe. se mbata mpe ngombe li bino likotikana; mpe bana ba bino bakoyisa noke na bino. Mosi abekoli: Yome okopese o maboko ma biso bincoki bikosengibwa na ntina e pese mbeka mpe makabo ombe Yawe, Nyambe e biso. Matonga ma biso ma bibwele makoke na biso, mpe ekozala totikana ncoki lonzali loko; nowela se o mango lokokwa makabo na ntina esalela Yawe, Nyambe e biso; mpe yeka na ekoyetela biso, longa toyeba eloko ekosolo biso na ntina e kaba ombe Yawe.
+
+\v 27
+
+\v 28
+
+\v 29 Yawe ayeisi moloko mombe Falo mokoti, mpe aboyi notika bango bake. Falo alobi na Mosi: Pima ombe ngai ! Batela nzoto li yo ete ozala tobonono bisa o boso bo ngai, nowela busa bokobonono yo bisa ombe ngai, okowa.
+
+Osili noloba ! ebekoli Mosi, nakozala tobonono bisa o boso bo yo.
+
+\c 11
+
+\v 1
+
+\v 2
+
+\v 3 Yawe alobi na Mosi: Nakotinda bisa eleto yoko ombe Falo mpe o Ezipeto. ombis'enya akobotika boke. Ekobotika ye se solo noke, akobobengisa mbengisa awa. Loba na bato ete bampele batombo ombe bawalani ba bango, bene mpe batombe ombe bazalani ba bango mbeki li palata na li wola. Yawe akeleli bango ngolu o miso ma ba Ezipeto, mpe Mosi yeme atosibwaki be o monce mo Ezipeto, ombe basali bambe Falo mpe ombe bato banco.
+
+\v 4
+
+\v 5 Nyambe alobi na Mosi ete: ekokosikisa ngai Yawe: O ntei e mokolo, nakotambola o Ewipeto enco, mpe bana ba boso banco o Ezipeto bakowa kuma ombe Falo bwa o ngwende e bokonzi yek'ombe mosali o mwene oko nyila mbolo, weki o bana ba boso ba bibwele.
+
+\v 6
+
+\v 7
+
+\v 8 Ekozala na bilelo bikoti o monce mo Ezipeto monco ololenge longa nani ozalibwaka banda omabandela yek'omasukela. Nde ombe bana ba Yisalaele band'ombe bato yeka o bibwele, ncoki na mbwa elibola munya te, angani bokoyeba lolenge lokokakola Nyambe Ezipeto na Yisalele. Bongo, basali bayo baye banco bakoya ombe ngai, mpe bakoyinama ombe ngai noloba ete: pima ! yo na bato banco zonganu na yo. obisa enya na kopima. Mosi apimi ombe Falo na nkelele ekoti.
+
+\v 9
+
+\v 10 Yawe alobi na Mosi: Falo akoboya noloyokela na ntin'ete babono mpapo li ngai nobula o monce mo Ezipeto. Mosi na Alona bakeli mpapo liye linco o miso mambe Falo, mpe Nyambe angendisi moloko mombe Falo ete aboya nopimisa bana ba Yisalaele o monce mo ye.
+
+\c 12
+
+\v 1
+
+\v 2 Yawe alobi na Mosi na Alona o monce mo Ezipeto: Eyeli eye ekozala ombe bino Eyeli e boso, ekozala ombe bino eyeli e boso e mobu.
+
+\v 3
+
+\v 4 Yebisa lingunda linco li Yisalaele mpe loba ete: o eyeli eye mikolo zomu, bokokula mwana o mbata moko n'etondo e libota loko na loko, mwana o mbata moko n'etondo e ndako yoko. Ndiki ndako yoko enga na bato bake n'etondo e mbata yoko, bakokaba yengo na baninga banya banga belebele na bango, yengebenu na motuya mo bato; bokoyenge n'etondo e mwana o mbata enya nokeka motuya mo bato ete moto onco ayisa nole.
+
+\v 5
+
+\v 6
+
+\v 7
+
+\v 8 Tuse ezala mwana o mbata o bwele o mobu moko mpe o boleme te; bokoyisa nokula mwana o mbata soko mpe o ntaba, bokobatela yengo o eyeli eye mikolo zomu na minei; mpe lingunda linco li Yisalaele baboma yengo na mpokwa: Bokokwa malongo mayengo nosinga o mwiete mibale mi ekuki e ndako mpe na wipeti e ndako enya ekole bino. Se na mokolo monya bokole mosuni montumbaka, bokole mongo na limpa likosenga lowunu mputa na nzembu li bololo.
+
+\v 9
+
+\v 10
+
+\v 11 Toleki yengo ngunzolaka, nzokisaka mpe te: nde etumbibwa, na mutu, na makolo na biloko bimoyi. Bokozala nde otika eloko te weki o ntongo, ndiki etutumi, empimi na ntongo, botumba yengo. Bokole yengo lolenge loye: boswa mincenge mi bino, bikoto o makolo, na montongo o loboko mpe mbilisika (bwalo bwalo). Enga elambo emapimela embe Yawe.
+
+\v 12
+
+\v 13
+
+\v 14 Se na mokolo monya, nakoleka o monce mo Ezipeto, nakoboma bana ba boso ba libota na libota o monce mo Ezipeto, banda ombe bato mpe na ombe bibwele, nakotende ba nyambe banco ba Ezipeto. Ngai nanga Yawe. Malongo makozala ombe bino elemako o ba ndako linco lokozala bino; nakobono malongo mpe nakoka o likolo li bino, ekozala na mpota yoko te eboma bino, elembe ekobete ngai monce mo Ezipeto. Busa boye bokozala ombe bino busa bo ekaniseli bokokelaka elambo n'etondo embe Yawe; bokosanzolaka busa bonya lokola mobeko mo seko na seko na ombe bakitani ba bino.
+
+\v 15
+
+\v 16 Bokole mampa ma lowunu te, mikolo ncambo. Se o busa bo boso, bokole mampa ma lowunu te o ndako li bino, nowela moto onco okole mampa ma lowunu, banda o busa bo boso weki o mikolo ncambo akolongwibwa mputa na Yisalaele (akolongwibwa mputa na libota li Yisalaele). O busa bo boso ekozala na bobiangibwi bo bule; mpe o busa bo ncambo ekozala na bobiangibwi bo bule. Tosalaki ntomo o misa manya; bokoyisa se nolamba boli bo moto na moto.
+
+\v 17
+
+\v 18 Bokosanzolaka elambo e mampa ma lowunu te, nowela enga busa boliki napimisa mampinga (ma ngai) o monce mo Ezipeto; bokosanzolaka busa bonya lokola mobeko mo seko na seko n'etondo (ombe) e bakitani ba bino. N'eyeli e boso, mikolo zomu na minei, na mpokwa, bokole mampa ma lowunu te, weki na mpokwa e mikolo makwabale na moko.
+
+\v 19
+
+\v 20 Bokela mikolo ncambo o ndako li bino lowunu te, nowela moto onco okoli limpa li lowunu akologwibwa o libota (lingunda) li Yisalaele, ezala mobutu to monce (Mo Yisalaele). Toleki limpa li lowunu; o nongo linco likozala bino, bolekeke mampa ma lowunu te.
+
+\v 21
+
+\v 22 Mosi abiangi bampomba banco ba Yisalaele, mpe abalobeli ete: boke nokula bana ba mbata n'etondo e mabota ma bino mpe lokela basika (elambo). Bokula bisa liboke li isope, boyi na lingo o sani e malongo ma ebwele (mbata), bosinga malongo manya o miete mibale mi ekuki e ndako mpe na o wipeti. Moto moko te o bino nopima o ndako e ye weki na ntongo.
+
+\v 23 Elembe ekoleka Yawe nobete Ezipeto, mpe ekobono ye malongo o miete mibale mi ekuki e ndako mpe na o wipeti, Yawe akoleka o likolo li ekuki, mpe akozala topese epose ombe babebisi nowela o ndako mpe nobobete.
+
+\v 24
+
+\v 25 Botosa zambi liye lokola mobeko mo seko na seko ombe bino mpe na bana ba bino. Elembe ekowele bino o monce moliki Yawe abolakela bokelaka ekaniseli eye e bobulisami.
+
+\v 26
+
+\v 27
+
+\v 28 Mpe nkomo skobolobela bana ba bino: na ntina e bino, ezalela e bino eye ekolinga nolimbola nde ? Bokobekola: eye enga elamboe mapimela na ntina esanzola Yawe, oleki o likolo li ndako li bana ba Yisalaele o Ezipeto mpe ekosoli ye bana ba Yisalaele. Bato bayinami mpe bakumami. Mpe bana ba Yesalaele baki, mpe bakeli masikisi Yawe ombe Mose na Alona; bakeli bongo.
+
+\v 29
+
+\v 30 O ntantei e mokolo, Yawe abeti bana ba bancoki o monce mo Ezipeto, banda ombe mwana o booso ombe Falo oliki bwa o kiti e ye e bokonzi, yeka ombe mwana ombe mokangibwi oliki o boloko; yeka ombe bana bancoki ba boso ba bibwele. Falo asekwi na mokolo, ye na basali ba ye banco, mpe na ba Ezipeto banco; mpe eliki na lokuku lokoti be o Ezipeto, nowela eliki nde na ndako yoko te esengi ebenge.
+
+\v 31
+
+\v 32
+
+\v 33 Se o mokolo monya, Falo abiangi Mose na Alona mpe abalobeli: Botemene, bopima o ntantei e bato ba ngai, bino na bana Yisalaele. Bokeke, bosalela Yawe, lokola elobi bino. Bokwa mbata mpe ngombe li bino, lokola elobi bino: bokeke mpe boyeya ngai. Ba Ezipeto bakelaki lokuku, baliki na mposa e babengisa na bwalo, nowela balobaki ete: lokowa bancoki (lokosila banco)
+
+\v 34
+
+\v 35
+
+\v 36 Bana ba Yisalaele bamemi mposoko li bango o boso bo lingo nonetwa. Bapoti o bilamba bi bango mabaya ma bango manyila mposoko mpe bamemi o bisambaka. Bana ba Yisalaele bakeli ma balobeli Mose, bongo batombi ombe batoba Ezipeto mbeki li palata, mbeki li wolo, mpe mbeki li bilamba. Yawe akeli ete bato ba ye bakwa ngolu o miso ma bana ba Ezipeto, bayimisi mposa e bango. Bakweli bana ba Ezipeto biloko biyike na bango.
+
+\v 37
+
+\v 38
+
+\v 39
+
+\v 40 Bana ba Yisalaele balongwi o mboka e Lamasese yeka o Sukoto, na makolo, baliki o motuya mo, belebele, nkoto minkama motoba mo bampele, bana te. Bato bayike ba ndenge na ndenge babataki mputa na bango; baliki mpe na matonga mayike ma mbata mpe na ngombe. Batumbi minkate mikeli bango na mposoko, esengi ewulubisa, enya ememi bango bokumaka o Ezipeto, mpe eliki towuluba; nowela bababengisi o Ezipeto, na bwalo be, mpe baliki na nkomo e kwa eloko te. Bana ba Yisalaele babiki o (bontamba) monce mo Ezipeto mibu minkama minei na bweli.
+
+\v 41
+
+\v 42 Mpe o bosuku bo mibu minkama minei na bweli, se o busa bonya, mampinga mancoki mambe Yawe mapimi o monce mo Ezipeto. Mokolo monya mokoyeyibwa na ntina e lumu lombe Yawe, nowela abapimisi o monce mo Ezipeto. mokolo monya mokoyeyibwa na ntina e lumu lombe Yawe na bana bancoki ba Yisalaele mpe na bakitani ba bango.
+
+\v 43
+
+\v 44 Yawe alobeli Mosi mpe Alona: keka mosikiso moko na ntina e Elambo e mapimela mobutu moko te ale yengo. Montamba osombi yo na mosolo, akoyisa nole yengo ndiki osili nomokete ng
+
+\v 45
+
+\v 46 Momene mboka mpe moto okobunisa baninga na ntina e mosolo, anga nde ole yengo te. Bakole yengo se o ndako; bokozala nde omeme mosuni o ndanda e ndako te, mpe bokozala tobunya ncoki lokwa loko.
+
+\v 47
+
+\v 48 Lingunda lincoki li Yisalaele bakokela Elambo e mapimela. Ndiki mobutu onga o ndako e yo akolinga nobiokele Elambo e mapimela embe Yawe, tika ete mwana oncoki o bwele onga o ndako e ye aketibwa ngenga; bongo bakoyisa nobeleme mpe nokela yengo, mpe akozala lokola momene mboka; ncande moto onga oketibwa ngenga te, qngq nde ole yengo te.
+
+\v 49
+
+\v 50
+
+\v 51 Mobeko monya mokobakibwa lolenge loko na ntina e mwana o mboka mpe na ntina e mobutu onya onga mputa na bino. Bana banco ba Yisalaele bakeli ma basikisi Yawe ombe Mosi mpe Alona; bakeli bongo. Mpe se o ba bonya, Yawe apimisi bana ba Yisalaele o monce mo Ezipeto, o lolenge lo mampinga ma bango.
+
+\c 13
+
+\v 1
+
+\v 2 Yawe alobi na mosi ete: bulisa ombe ngai mwana onco o boso, mwana onco o ntantei e bana ba Yisalaele, ezala o bato soko mpe o bibwele. anga o ngai.
+
+\v 3
+
+\v 4
+
+\v 5 Mosi alobi na bato: bokanisa busa bonya, boliki bolongwa o Ezipeto o ndako e bontamba nowela Yawe Nyambe abopisi na nguya eloboko lo ye. lokozala tole limpa liwulubi. Bokopima lelo o eyeli ekosala masangu. O elembe ebowelisa Yawe o monce mo Bakanana, Ba Yetene, Ba Amolene, Ba Yewine mpe ba Yebusena, moliki alaka nopese ombe ba sango ba yo, monce mom seyi monya mokonyala na miliki mpe na boyi bo nzwi, okosanzola Nyambe se o eyeli enya.
+
+\v 6
+
+\v 7 Okozala tole limpa liwulubi mikolo ncambo, ombis'enya bokoputana nobioko mputa n'etondo enetola bone bombe Nyambe. Lokole mampa makosenga ewulubisela mikolo ncambo: bazala tobono ombe yo limpa liwulubi soko mpe ewulubisela o monce mo yo monco.
+
+\v 8
+
+\v 9
+
+\v 10 Bongo okoloba na mwana oyo ete: enga n'etondo ekanisa makeli Yawe ombe ngai, omapimela ma Ezipeto. Ekozala ombe yo lokola elembo o loboko mpe lokola ekaniselo o miso ma yo, na ntin'ete mobeko mombe Yawe mozala o munya mo yo; nowela Yawe akopimisi o Ezipeto na nguya eloboko lo ye. Okobanda notosa mosikiso moye o elembe yoko, mobu na mobu.
+
+\v 11
+
+\v 12
+
+\v 13 Ekokowelisa Yawe o monce mo ba Kanana s'ete nde elaki ye ombe yo mpe ombe ba sango ba yo, ekokopese ye mongo. okobulisa ombe Yawe mwana onco o boso, na mwana o boso o bibwele bi yo: bana ba bampele banga bambe Yawe. Soko mwana o mpunda o boso anga mwene okomoyenza na mbata; mpe ndiki o boyi no moyenza okomobunya nkingo.
+
+\v 14
+
+\v 15
+
+\v 16 Busa bokokolukisa mwan'o yo ete: maye makolakisa nde ? Okomobekola be: na nguya e loboko loye. Yawe alopimisi o bontamba bo Ezipeto; mpe bisa Falo aboyaki nolopimisa. Yengo enya Nyambe aboma bana banco ba boso o Ezipeto, kum'ombe bato yek'o bibwele. Keka etondo ekokaba ngai mbeka ombe Nyambe mwana o boso onco Ekozala s'ete nde elembo oloboko lo yo mpe ekaniselo o miso ma yo; nowela Yawe apimisi biso o Ezipeto na nguya e loboko lo ye.
+
+\v 17
+
+\v 18 Elembe eliki Falo atika bato bake Nyambe aliki tobakamba o nzel'e ba Filisino, ncoki yengo eliki ekuse, nowela Nyambe aloba be: bato bakoyisa no zengola maloba ekobono bango bitumba mpe nobutwa o Ezipeto. Yengo enya Nyambe abakambi o nzela e mosika, nzela e esobe, lokenge lo libeke li mondo. epimaki bango o monce mo Ezipeto, bana ba Yisalaele baliki kolongonu na bibuneli.
+
+\v 19
+
+\v 20
+
+\v 21
+
+\v 22 Mosi apima mputa na nkwa limbe Yosepa; nowela Yosepa asuba ndai ombe bana ba Yisalaele ete: Nyambe akoboyindola, bongo boke na nkwa li ngai mosika na nongo eye. Balongwi o Sukoti mpe baki noteme o Etami, o mandelo ma esobe. Yawe atambolaki o boso bo bango na lipata li ngiya na mwese mpe na lipata li meya na mokolo n'etondo ebalakisa nzela ete batambola na mwese na mokolo. Lipata li ngiya na li meya liliki nde olongwaka o boso bo bango te, na mwese na mokolo.
+
+\c 14
+
+\v 1
+
+\v 2
+
+\v 3 Yawe alobi na Mosi: Loba na bana ba Yisalaele babutwa mpe bake noteme o boso bo Pi - Ayilote, o ntei e Migodola na libeke, nconga na Bala-Tsefona; bokeke motongo o ncena, banda na libeke.
+
+Falo akoloba na bana ba Yisalael'ete, balimbi nzela o esobe mpe balimbani.
+
+\v 4
+
+\v 5 Nakoyindisa moloko mome Falo mpe, akobila bisa ba Yisalaele bongo; nakolakisa nguya e Ngai ombe Falo na mampinga ma ye. bongo; bana ba Ezipeto bakoyeba ete: Ngai nanga Yawe mozalisi. Bongo, ba Yisalaele batosi nokela bongo. Bayebisa mokonzi o Ezipeto ete: ba Yisalaele baki. Bongo moloko mombe Falo na basali ba ye mobebi mpe balobi ete:"Loyisi ? Notika bisa ba Yisalaele bake boni - boni ? biso (lomosenga) bosungi bokwaki biso bango ? Nowela, banga nde bisa bantamba ba biso te !"
+
+\v 6
+
+\v 7
+
+\v 8
+
+\v 9 Bongo Falo asekeli likalo na mampinga ma ye, abili ba Yisalaele. Apimisi makalo minkama motoba matemu mpe na masiso manco makobunaka bamani (basoda) ba Ezipeto na mango. Yawe ayindisi moloko mombe Falo ete: aya se nobila ba Yisalaele. Nde epimaki bana ba Yisalaele, banetolaki loboko nolakisa elembo ete: na lelo eye batiki bontamba, baka pusu. Bato ba Ezipeto bababilaki se bobilaka, na ba mpunda, na ba nkalo, na bamani banco ba nguya ba mampinga ma bango, babangondwisi o nkeka e libeke, banda na Pi - Ayilote, o boso bo Bala - Tsefona, nongo eyekami bango.
+
+\v 10
+
+\v 11
+
+\v 12 Falo abemeneki na bango. Bana ba Yisalaele enetoli bango miso bamoboni mpe balobi: keka ba Ezipeto babalemi mpe baka se o minkundu mi bango ( bayeteli se banda na bango). Bongo, bana ba Yisalaele bayoki bongo be mpe bakeli ombe Yawe. Bayebisi Mosi ete:" Oyi na biso o esobe nolosinisa (noloboma)? Ongo o Ezipeto, eliki na mayita ma lokunda te ? Oyi na biso weni, nolopimisa o Ezipeto n'etondo e nde ? Eliki biso o Ezipeto, loliki tokoyebi s'ete : tika biso losalela bato ba Ezipeto, nowela lokobioko bongo nde lokoboya nowa kale o esobe ?
+
+\v 13
+
+\v 14 Mosi abekoli bana ba Yisalaele ete: " Tozalaki na bongo ! Boteme zu ! Keka, lelo eye, bomobono lolenge lomo yelola Yawe - Nyambe bino na mpapo li ye. Bongo, bato ba Ezipeto bakobono bino sik'eye, bokozala bisa tobabono !
+
+\v 15
+
+\v 16
+
+\v 17
+
+\v 18 Yawe akobomanela, nde bino, bozala nyile. Yawe alobi na Mosi:"boni boni bokokela lokuku nombianga, yebisa bana ba Yisalaele batambola. Yo netola lingenda lokokata yo, sembola loboko loyo o libeke, libola nzela o mayi bongo, ba Yisalaele baleka o ntei, nopenda libeke. Mpe ngai namotele o moloko mombe Falo na bato baye mposa e bobila, mpe bamobonisa mpapo li nguya e ngai, ekowa bango na mayi.
+
+Bongo Ezipeto ekoy'ete: ngai nanga Yawe mowalisi; ekobono bango nguya na mpapo likelibwi na Ngai"
+
+\v 19
+
+\v 20 Ntoma (Anzelu) embe Yawe etambolaki o boso bo bana ba Yisalaele, aleki o mbisa e bango; bongo lipata li meya liliki o boso, lizengwi o mbisa e bango. Litemi o ntei e ba Yisalaele na ba Ezipeto. Lipata linya lipseki liti lokenge loko, mpe lipeseki ncengi lokenge losiso. Bongo mangomba mabale manya maliki na lolenge longondwasana te mokolo monco.
+
+\v 21
+
+\v 22 Mosi asemboli loboko loye o libeke. Bongo, Nkolo atindi elele ekoti bokumaka o monyele, moloyisi mayi o libeke, mokolo monco, bongo nzela ekelibwi o libeke, mayi makabwani. Bana ba Yisalaele bapendi o ntei, mpe mayi makeli bitutu, lokenge na lokenge.
+
+\v 23
+
+\v 24
+
+\v 25 Ba Ezipeto (Bato ba Ezipeto) bababili. bongo, eweli bango o nzela enya, mputa na ba mpunda linco limbe Falo, na makalo, bayeteli o ntantei e libeke. Bongo, noyetela o ntongo, Yawe oliki oliki olikonzi li meya mpe o lipata li ngiya, abwaki miso ma ye lokenge lo bato ba Ezipeto mpe awelisimokakatano ombe bato ba Ezipeto. Abebisi bikomela bi makalo ma bango, mpe botamboli bo bango boweli monyoko. Bato ba Ezipeto basosoli ete; Yawe akomanela ba Yisalaele mpe balobi;"ekosenga lotika nobabila mpe lotangwa na ba Yisalaele''.
+
+\v 26
+
+\v 27
+
+\v 28 Yawe alobi na Mosi :"Sembola loboko lo yo o libeke. Bongo mayi makobukwa, nolindisa bato ba Ezipeto na bamani mpe bomani bo bango bonco." Mosi asemboli loboko lo ye olibeke. Bongo, na ntongo, mayi mabukwi nobalindisa, bato ba Ezipeto bameki nokotola nde, Yawe ababwaki o ntei e libeke. Bawi na mayi bango onco: Falo na mampinga ma ye, eliki na mokoswi te.
+
+\v 29
+
+\v 30
+
+\v 31 Nde Bana ba Yisalaele bapendi o libeke, onzela e yomi - yomi, mpe mayi maliki bitutu binzela lokenge nalokenge. O busa bonya Yawe mozalisi akangoli Yisalaele o maboko ma bato ba Ezipeto. Ba Yisalaele bayi nobono bibembe bi bato ba Ezipeto banco, bawi na mayi, bisemi o libongo. Yisalaele aboni nguya e loboko lombe Yawe mozalisi, na makeli ye ombe bato ba Ezipeto. Bongo, batosi Yawe mpe bamoyambeli, na mosali oye Mosi.
+
+\c 15
+
+\v 1 Bongo Mosi na bana ba Yisalaele bayembaki nzembo n'etondo e sanzola Yawe. bayembaki ete: Nkoyembela Yawe, nowela acakinyisi mankembo ma ye. Ye ayinisi mpunda na motambolisi o ye o libeke.
+
+\v 2
+
+\v 3 Yawe anga nguya e ngai mpe ntina e boyembi (nzembo) li ngai: enga ye mokosoli o ngai. Anga Nyambe e ngai: nakomosanzolaka; anga Nyambe embe papa: nakalakisa bone bo ye. Yawe anga nzanga e lombiki, lina li ye linga Yawe.
+
+\v 4
+
+\v 5 Ye abwaki o libeke bibuneli (makalo) bimbe Falo mpe mampinga ma ye. Bamani ba ye bakoti (nguya) baminibwi (balindibwi) o libeke li mondo. Mbonge li bapoti: basundi o nce e mayi lokola libwa.
+
+\v 6
+
+\v 7
+
+\v 8 Loboko lo yo lomobali, O Yawe ! lomunyaki monguna (moyini). Na bone bo lumu loyo okzengola bayini ba yo. Ndiki obimisi nkelele eyo: ekobalikisa lokola ncolu. Na mompe mo zolo li yo, mai ma ngondwasani. Lokenge lokola etutu, Mbonge lizengwi likoti (likangami) o ntantei e libeke.
+
+\v 9
+
+\v 10
+
+\v 11 Moyini alobi ete: nakobila, nakobakwa, nakokaba biloko; o nkelele e ngai ebutinya bobe na bobe nakokula biloko biyike. Nakobenda mompanga, loboko lo ngai lokobaboma. Obimisi mompe mo yo: libeke l bapoti; balindi o mayi lokola efe, o molindo (mbenga) mo mai. Na (moto na) onga lokola yo o ntantei e banyambe, O Yawe ?
+
+\v 12
+
+\v 13 Yo osemboli loboko lo yo lomobali : nce e bamini, Na molika mo yo okambi libotq liye, mpe opusoli lingo, na nguya e yo okobakonga weki o ndako e bule.
+
+\v 14
+
+\v 15 Bato bakoyoka mambi manya mpe bakowatisa na bongo; Bafilisitiya bayoki miloko bwale: Bakonzi ba Edome baliki na bongo; bamani ba Moaba bawatisaki; mpe bato banco ba monce mo Kanana baliki bisa na nguya te (bokowu).
+
+\v 16 Bongo mpe bowatisi bokokula bango (bokokamwisa bango); Na bone bo loboko lo yo, bakozengwa bibubu lokola libwa, weki ekoleka libota li yo, O Yawe ! weki ekoleka bango, libota liliki yo okwa (litemu)
+
+\v 17
+
+\v 18 Okobakamba mpe okobatele (okobatika) o ngomba e libula li yo, o nongo enya eliki yo olengele ete ozala angani, O Yawe ! O nongo e bule, Nkolo ! eliki yo olengele ( osokolo) na maboko ma yo. Yawe okokonga seko na seko mpe mikolo minco.
+
+\v 19
+
+\v 20
+
+\v 21 Nowela ba mpunda bambe Falo, bibuneli (makalo) bi ye mpe bamani (babuni) balindi o libeke, mpe Yawe abapotoki na mai ma libeke; nde bana ba Yisalaele bapendi libeke botambolaka once. Malia, mosakoli, nkana embe Alona, akuli ngomo na loboko lo ye, mpe bene banco bamobilaka na bobina. Malia abekoli ombe bana ba Yisalaele ete: Yembela Yawe, nowela acakinyisi mankembo ma ye; Ayinisi (alindisi) o libeke mpunda mpe motabwisi o yengo.
+
+\v 22
+
+\v 23 Mosi atika Yisalaele ake o libeke li mondo. Bakeki nconga e esobe e Sula, batamboli mikolo misato o esobe, baliki nde okundola mai te. Bayeteli o Mala, nde baliki toyisa nonwa mai ma Mala, nowela maliki na bololo. Yengo enya nongo enya ebiangibwa lina Mala
+
+\v 24
+
+\v 25
+
+\v 26 Libota (ba Yisalaele) lisotiyangana na Mosi, boloba ete: biso lokonwa nde ? Mosi abondeli ombe Yawe; mpe Yawe amolakisi mwete moko bongo abwaki mongo o mai mpe mai mazengwi malamu. Eliki angani nongo epesi Yawe mibeko mpe na misikiso ombe ba Yisalaele mpe eliki se angani nongo emekibwi bango. Ye alobi ete: ndiki oyoki likingo limbe Yawe, Nyambe e yo na litimi, ndiki okokela mambi manga sembo o miso ma ye, ndiki oyoki misikiso mi ye, mpe ndiki obateli mibeko minco, nakozala tokobwakela bwale boko o ntantei e male maliki nabwakela Ba Ezipeto; nowela na Yawe ekokokosola.
+
+\v 27 Bayeteli o Elimi, angani eliki na misolo zomu na mibale mpe na mabila nyuncambo. Bazali angani bele - bele na mai.
+
+\c 16
+
+\v 1
+
+\v 2
+
+\v 3 Lingomba linco li bana ba Yisalaele bokumaka o Elime, byeteli o esobe e Esine, o ntei e Eline na Sinayi, o busa bo mikolo zomu na mitano mi eyeli, o mbisa e biyeli bibale bi bopimi bo Ezipeto. Bongo ba Yisalaele yonganu, batiyi na Mosi mpe na Alona. Ba Yisalaele bababekoli: " ekomoki ete: Yawe alotika lowa nobiso ncoki o Ezipeto. ongo, loliki na nzala te, loliki bolamu. Bino boyi na biso awa n'etondo eloboma na nzala ?"
+
+\v 4
+
+\v 5 Yawe alobi na Mosi:"Keka namobotombisela mbula e biloko bikole bino, busa na busa, bato bakopimaka nolungola bingo o mposa e bango, mpe bamoke nole. Bongo, nameka miloko mi bango, soko bakotosa mobeko mopesi ngai bango, soko mpe te. O busa bo motoba, ekolambaka bino, boli bokwi bino, bolamba bongo boyike, ezala libondo li mikolo mibale.
+
+\v 6
+
+\v 7
+
+\v 8 Mosi na Alona balobi na ba Yisalaele banco: "O mpokwa e lelo, bokososolo ete, enga Yawe mozalisi opimisi bino o Ezipeto. Mpe na ntongo, bokobono nguya na mpapo limbe Nyambe nowela ayaki, etiyanganaki bino na ye. Botinganaki na Nyambe na nde ? Libe likeli biso linga nde ete, bino boyisa mpe notiya na biso ? Mosi abayebisi ete: na mpokwa e lelo, Yawe akobopese misuni mikole bino mpe na ntongo, bokokwa mampa makoyisa bino nole tii, boyuta; nowela Yawe ayoki mitiya mi bino na ye; Ekotiya bino na biso, na nyomeni bokotiyangana nde na Yawe, biso mpe ba na? (zambi nde likoyisibwa na biso, ndiki Yawe te ?
+
+\v 9
+
+\v 10
+
+\v 11
+
+\v 12 Mosi alobi na Alona: loba na bato banco ba Yisalaele ete: Babeleme na Yawe mozalisi nowela ayoki mitiya mi bango. Bongo elobaki Alona na bana ba Yisalaele, bang'onco bazengoli miso lokenge lo esobe. se pwasa ba boni mankembo mambe Yawe o ntei e lipata li ngiya. Yawe mozalisi alobi na Mosi: "Yebisa bato ba Yisalaele, nayoki mitiya mi bango. Obasakola ete: kuma o mpokwa e lelo, namobalisa misuni; na ntongo e lobi, namobalisa mampa o mposa e bango, bakoyuta. Bongo, bayeb'ete Ngai nanga Yawe mozalisi, Nyambe e bino".
+
+\v 13
+
+\v 14
+
+\v 15 Na mpokwa, botonga bo mileke mipwani - pwani o nongo linco liliki ba Yisalaele. bongo na ntongo nce enco eboli na mamio zonga zonga e nongo linco li kundwaki(lizalaki) ba Yisalaele. Eyomi mamio, matiki mbolo like - like, li mpumpu o nce. Ba Yisalaele basosoli mpe balobani :"eye ekobono biso enga nde ?". Na nyomeni, baliki nde okata ntina te. Bongo Mosi abasakoli:"enga mampa mapesi Yawe bino ete, bole.
+
+\v 16
+
+\v 17
+
+\v 18 Bongo, Yawe akobosikis'ete(abolobeli ete):" moto na moto alungola mampa o mposa eye. Bolungola mango yengebene na mptuya mo bato banga mputa o mongombo moko na moko. Bongo ba Yisalaele balungoli mampa, basiso bayisi nolungola mayike, basiso make. Ombisa enya ebononi ete: na onyq olungoli mayike, aliki nde okwa boli nopita basiso te; Bongo onya oliki toyisa nolungola mayike, aliki nde obonono na mampa make te; bongo ebononi ete: mot'onco abononi na mampa se lokola na moninga, mopiti moninga na mampa alikite.
+
+\v 19
+
+\v 20
+
+\v 21 Mosi abayebisi :" moto azala nde obomba limpa tii na ntongo te"Basiso batosi. Basiso baboyi; bongo mampa mayeteli na ntongo mabebi, manyangibwi na minkunyu, mapimisi ncolo. Bongo, Mosi abayakweli. Ntongo linco, moto na moto alungolaki boli bokokaki na ye. Ndiki mwese mopimi mokoti, mosinisaki boli bonya.
+
+\v 22
+
+\v 23 O busa bo motoba, moto na moto alungolaki boli emeko e mikolo mibale. Ba Kapita bayaki noyebisa Mosi na lolenge lokokela bango. Bongo, Mosi ababekoli:" enga mosikiso mombe yeme Yawe, nowela: lobi enga eyenga, busa bo yomisa, Enga busa bobulisi Yawe n'etondo eye. Bosala ntomo linco lelo: bolamba mali manco, bozokisa bikotikana n'etondo e lobi na ntongo."
+
+\v 24
+
+\v 25 Bayisalaele batosi Mosi mpe, bakeli lokola ebalobeli ye. Na ntongo, eliki na boli boseye te, mpe nopimisa minkunyu te, na ncolo te, se lokola ebayebisi Mosi. Mosi abayebisi:"Boleke boli bonya bobombi bino lelo. Lelo enga busa bo eyenga, busa bombe Yawe, bokozala nde okwa boli zonga zonga awa te.
+
+\v 26
+
+\v 27 Misa motoba minga, milungola boli nde, o busa bo ncambo, enga sabata(eyenga). bozala nde okwa eloko te. O busa bo ncambo sabata (eyenga), basiso bapimi noke nolungola boli, bongo baliki nde okwa ncoki eloko te.
+
+\v 28
+
+\v 29
+
+\v 30 Bongo Yawe mozalisi alobi na Mosi:"bokolinga nakela boni - boni ete; boyisa notosa mibeko mi ngai ? Ngai Yawe mozalisi, nabopesi Sabata (eyenga), bongo, o busa bo motoba, bosala noyonginya boli bo mikolo mibale. Ezala nde na mosali o lotomo te, o busa bo eyenga. bonngo, nabotikeli misa motoba masala ntomo. O busa bo ncambo ezala nde na mosali o lotomo te, boyomisa.
+
+\v 31
+
+\v 32 Ba Yisalaele bapesi boli bonya lina "mana". Bolikina mbolo like - like li mpumpu mpe boliki na mpia lokola monkate monya mokelibwi na boyi bo nzwi. Mosi alobi:" Keka mosikiso mopesi Yawe: bokwa mana, bonyalisa o omele(ntoko) mpe, bobomba n'etondo elakisa ombe bana bakobota bino, boli bolisi ngai Yawe bino, esili ngai no bopimisa o Ezipeto"
+
+\v 33
+
+\v 34
+
+\v 35
+
+\v 36 Bongo Mosi alobi na Alona:"Nyalisa nzungu (omele) ntoko na mana yaka notika yengo o boso bombe Yawe, n'etondo elakisa bana bakobota bino". Alona atosi mosikiso mopesi Yawe na Mosi, mpe akinotika omele (ntoko) enya o boso bo mesa e boyokani bokeli Yawe na ba Yisalaele. Ba Yisalaele babiki nole mana mibu nyumineyi, weki eyeteli bango o kanana, monce mozalibwaki na bato. Libondo li moto na moto liliki na emeko, ebiangibwaki: Omele
+
+\c 17
+
+\v 1
+
+\v 2
+
+\v 3 Libota linco li bana Ba Yisalaele baki o esobe Esini, o etomba enya eliki Yawe abalakisa, bakeli motongo mo bango o Lefidima, nde nongo enya eliki nde na mayi te. Bato bayakweli Mosi ete: Mes biso may ma nwa. Mosi ababekoli ete: bokontombele mambi na nde ? Bokomeka Yawe na nde? Bato bato batoyi bwale na mpos'e mayi, mpe batiyangani be na Mosi. Balobaki be: ntina nde olopimisi o Ezipeto mpe noloboma na mpos'e mayi, na biso na bana ba biso mpe na bibwele bi biso ?
+
+\v 4
+
+\v 5
+
+\v 6
+
+\v 7 Mosi aleli ombe Yawe ete: nakela boni - boni na bato ba ye ? Etikani se mwa nombwakela mabwa. Yawe alobi na Mosi ete: leka o boso bo bato mpe yonginya ba nkonwa ba Yisalaele; kata oloboko lo yo lingenda linya libeti yo ebale, mpe keke ! Keka nakoteme o libwa li Olebe; yo okobete libwa, likopisa mayi bato nwa. Miso akeli bongo o miso ma ba nkonwa ba Yisalaele. Ye apesi yengo Masa mpe Meliba, ntin'elina linya ete: Nowela Bana ba Yisalaele batuki, mpe bameki Yawe noloba ete: Yawe anga mputa na biso soko mpe te ?
+
+\v 8
+
+\v 9
+
+\v 10 Amaleke ayi nobunisa Yisalaele o Lefindima. Bongo Mosi alobi na Yoswa solela biso Bampele, pima mpe buna na Amaleke; lobi nakozala yaka o nkeka na lingenda limbe Nyambe o maboko. Yoswa akeli malobi Mosi na ye, nobuna na Ba Amaleke. Mpe Mosi, Alona na Wulu babati yaka o nkeka.
+
+\v 11
+
+\v 12
+
+\v 13 Ndiki Mosi anetoli maboko ma ye Yisalaele bakuli bokoti nde ndiki asundisi maboko ba Amaleke bakwi bokoti. Maboko mambe Mosi makoyi, bongo bakuli libwa, bamotiki bwa o lingo. Alona na Wulu bamoyikela maboko moko lokenge moko lokenge. bongo maboko ma ye manika ngbi weki na mpokwa. Mpe Yoswa apimi molongi olombiki lobuni lonya mpe abomi Amaleki na mopata.
+
+\v 14
+
+\v 15
+
+\v 16 Yawe alobi na Mosi ete: sono maye manco o monkana n'etondo ete matikana eyindwisela, mpe sakola Yoswa ete nakosilisa ba Amaleke banco moto moko te oyisa no bayindola na o nce na o lokolo. Mosi atongi etumbela mpe abiangi yengo lina Adonai Nisi ekolakisa ete Yawe ebola e ngai. Alobi ete eliki ba Amaleki batemeli bokonzi bombe Yawe bakozala na mbiki liyekiliye (libosuku te).
+
+\c 18
+
+\v 1
+
+\v 2
+
+\v 3
+
+\v 4 Yetelo motumbi mbeka o mbe ba Ba Madiani bokoyi bombe Mosi, ayoki manco maliki Nyambe akelela Mosi na Ba Yisalaele, libota li ye; ayoki lolenge loliki Yawe mozalisi apimisa Yisalaele o Ezipeto. Yetelo, bokoyi bombe Mosi, akwi Sefola mwasi ombe Mosi obutinyi bango o libota. Akwi bisa bana ba babale bambe Mosi, mwana o boso abiangibwi: Gelesoma, ekolimbola ombe Mosi ete:" nanga Mobutu awa". Bongo mosiso abiangibwi Elizele ekolimbol'ete: Nyambe e ngai akoncunga.
+
+\v 5
+
+\v 6 Yetelo bokoyi bombe Mosi, mputa na mwasi na bana bambe Mosi bayi no mokeka. o nongo ezali bango o esobe, banda na ngomba embe Nyambe. Yetelo ayebisi Mosi ngai bokoyi bo yo, nakoy'ombe yo nokolakisa mwasi na bana ba yo banco babale
+
+\v 7
+
+\v 8 Mosi apimi mpe amo nyangeli na bosokemi bonco, bongo amopwepwi. babetinyi mikolo mpe baki nozala o mongombo (eyango) mombe Mosi. Mosi ayebisi bokoyi boye manco makeli Yawe Mozalisi ombe Falo na bato banco ba Ezipeto; minyoko minco miboni bango o nzela mpe na lolenge loyeloli Yawe bango.
+
+\v 9
+
+\v 10
+
+\v 11 Yetelo abioki na bolamu bonco bokeli Yawe ombe ba Yisalaele, mpe na lolenge loliki a kangola ba Yisalaele, o bontamba bo Ezipeto. Bongo, Yetelo alobi: asanzwibwa, Yawe Mozalisi, o kangoli Yisalaele ombe Falo na bato ba Ezipeto ! Nakososolo sik'ey'ete Yawe - Nyambe anga ka, nopita nyambe linco, nowela bobe bombe bato ba Ezipeto bobutweli bango.
+
+\v 12 Yetelo bokoyi bombe Mosi, Ayeyi Yawe, nomotumbela mbeka. Bongo alona na ba nkonwa banco ba Yisalaele bayi nole mputa na Mosi mpe bokoyi, mwasi na bana baye o boso bombe Yawe.
+
+\v 13
+
+\v 14 Lobi na ntongo, Mosi abandi notende mambi, lokola zuzi e bato ba Yisalaele, weki o mpokwa. Moko na moko oliki na zambi, abanzi o boso bombe Mosi. Bokoyi bombe Mosi, aboni lotomo lone losalaki ye ombe ba Yisalaele mpe, amoyebisi:"okosala mpenza boni - boni ? Keka bato bayike bakobika se sika, nolembisa no banza, kum'o ntongo weki o mpokwa.
+
+\v 15
+
+\v 16 Mosi abekoli bokoyi boy'ete: bato bakoya ombe ngai noyoka makoloba Yawe. Ndiki banga na mikakano, bakoya nobono ngai nabayebisa lolenge lokela yengebene na mibeko mimbe Yawe.
+
+\v 17
+
+\v 18
+
+\v 19
+
+\v 20 Bokoyi bombe Mosi amoyebisi:"esalela enya enga nde elamu te. Okokoyo yome bokoti mpe okokoyisa nolangisa banco, bakoya ombe yo; enga mokumba mokoti, mpe enga tokomo ete osala mpenza. Sik'awa yoka liteyo li ngai, mpe Yawe azala na yo ! Zala molobeli o ba Yisalaele ombe Yawe mpe, noboyebisa mposa li bango. O bateya liloba limbe Nyambe mpe, o bayebisaka misikiso miye; o balakisa nzela ekokomo bango nobila, na manco makokomo bango nokela.
+
+\v 21
+
+\v 22
+
+\v 23 Osolo o ntei e bango, bato banya bakokomo, bakotosa Nyambe, bato ba bonyomeni, banga nde na lozolo lo mosolo te, ozalisa bango bantangi o ntei e lingomba lingomba. Basiso ba mokonga bato nkoto, basiso monkama, basiso nyumitano, basiso zomu. Bongo, bayisaka notele mambi nde, manya ma mbinga makolanga bango, baya na mango ombe yo. Bongo, lotomo loyo lokosunda na lolenge lokoyakola bango yo. Ndiki okeli bongo mpe otosi misikiso mipesi Yawe yo, okozala tokoyo, okoyetisa lotomo o bosuku na nyonyo."
+
+\v 24
+
+\v 25
+
+\v 26
+
+\v 27 Mosi ayoki liteyo li bokoyi bo ye, bongo akeli se lolenge lomolobeli ye. Mosi asoli bato banya bakokomo o ntei e bato banco ba Yisalaele, abayetisi bantangi. basiso bakongaki bato nkoto (1000), basiso monkama(100), basiso nyumitano(50), basiso zomu(10). Batendeki mambi ma bato bilembe binco, bayelaki mosi atende mambi manya malangaki bango; nde mayisaki bango ba matendeki. Bongo, Mosi apesi bokoyi bo ye, Yetelo epos'ebutwa; mpe aki.
+
+\c 19
+
+\v 1
+
+\v 2 Biyeli bisato o mbisa e bopimi bo Ezipeto, bana ba Yisalaele bayeteli busa bonya o esobe e Sinayi. Elongwi bango o Lefidimi, bayeteli o esobe e Sinayi mpe o esobe; Yisalaele azali angani nconga na ngomba.
+
+\v 3
+
+\v 4
+
+\v 5
+
+\v 6 Mose aki nongondwa na Nyambe, mpe Yawe amobiangi o likolo li ngomba, alobi ete: okoloba be (maye) na ndako embe Yakobo, mpe ombe bana ba Yisalaele: Boboni lolenge lokeli ngai monce mo Ezipeto, mpe lolenge lobomemi ngai o mapapu ma bokwango bisa , nobomeme mputa na ngai. Sik'awa soko bokoyoka likingo li ngai, mpe bokobatela mbengu e ngai, bokozala libota li ngai o ntentei e mabota mancoki, nowela nce eye enco enga e ngai. Bozala na ntina enga bokonzi (libota) bo babulami mpe ekolo e boyengebeni. Keka maloba makoloba yo ombe bana ba Yisalaele.
+
+\v 7
+
+\v 8
+
+\v 9 Mosi ayonginyi ba nkonwa ba ekolo mpe, abayebisi maloba manya manco, lokola emosiksi Yawe. Bato banco babekoli: lokokela mancoki malobi Yawe. Mosi ayetisi maloba ma bango ombe Yawe. Mpe Yawe alobi na Mosi:"keka, nakoya ombe yo, o lipata line, na ntin'ete bato bayoka makoloba ngai ombe yo, mpe misa manco bayambaka makolobaka yo na bango.
+
+\v 10
+
+\v 11 Mpe Yawe alobi na Mosi: petola bango lelo mpe lobi, baponga bilamba bi bango; Bazala kolongonu na ntina e busa bo masato, nowela o busa bonya bo basato Yawe akosunda, o miso ma bato bancoki, o ngomba e Sinayi.
+
+\v 12
+
+\v 13 Okotele mandelo zonga nzonga, mpe okobalobela: Bobwakinya bozala to bata o ngomba te, soko mpe nokata minkako mi yengo. moto onco okokata ngomba, akokwa etumu e liwa. Bakozala tomobete na maboko, nde bakomobwakela mabwa, soko mpe bakomotuba na makongo: ebwele mpe soko moto, akozala na bomoyi te. Nkomo ekobete kelelo, bato bakobeleme belebele na ngomba.
+
+\v 14
+
+\v 15 Mosi asundi bokumaka o ngomba noke ombe bato; apetoli bato, mpe bapongi bilamba bi bango. Bongo alobi ombe bato: bozala kolongonu kuma lelo weki o busa bo masato; bozala nde o putana na mwene te.
+
+\v 16
+
+\v 17
+
+\v 18 O busa bo masato na ntongo, eliki na nkake mpe na mikakayi, mpe lipata line o likolo li ngomba; kelelo eyokani bokoti, mpe bato banco baliki o nongo enya bayoki bongo bokoti. Mosi apimisi bato o ndanda e nganda na ntin'engondwa na Nyambe; mpe bato banco batikani o nce e ngomba. Ngomba e Sinayi enyali encoki na ngiya, nowela Yawe asundi o ntantei e meya; ngiya linya linetwaki s'ete nde libembe li meya mikoti, mpe ngomba enco enyikaki na bokoti be.
+
+\v 19
+
+\v 20
+
+\v 21
+
+\v 22 Kelelo ebeteki bisa na bokoti be nopita. Mosi alobaki mpe Nyambe amobekolaki na likingo likoti. Bongo Yawe asundi o likolo lingomba e Sinayi o nconge e ngomba; Yawe abiangi Mosi o nconge e ngomba. bongo Mosi abati. Yawe alobi na Mosi: sunda, yeka bato ete bazala nde toyikatana nobeleme na Yawe, nomokeka, ndiki te, bayike bakowa. Tika ete bateyi, bakobemene na Yawe, bapetwibwa na bango mpe, n'ekani bango nobetibwa na Yawe na etumu e liwa.
+
+\v 23
+
+\v 24
+
+\v 25 Mosi alobi na Yawe: Bato bakozala nde obata o likolo li ngomba e Sinayi te, nowela yo oloyeki, olobi: tele mandelo zongazonga na ngomba mpe petolo yengo. Yawe amolobeli: Keke; okobata bisa na Alona; ncande, bateyi mpe bato bancoki bazala toyikatana nobemene na Yawe; ekani Ye nobabete na etumu e liwa. Mosi asundi ombe bato mpe abasakoli maloba maye(manya).
+
+\c 20
+
+\v 1
+
+\v 2
+
+\v 3 Bongo Nyambe alobi mambi manya mancoki ete:
+
+Nanga Yawe, Nyambe e yo, okopisi o monce mo Ezipeto, o ndako e bontamba.
+
+Okozala na nyambe lisiso te o miso ma Ngai.
+
+\v 4
+
+\v 5
+
+\v 6 Okozala nde okela bikeko na ntina e yo te, ncoki malilingi te ma biloko binga o likolo, binga o nce, mpe binga o mayi, nosunda nopita nce. Okozala nde okumbama o boso bo bingo te, mpe okozala nde osalela bingo te; nowela ngai, Yawe, Nyambe e yo, nanga Nyambe e masomo, onya okopese bitumu ombe bana na ntina e bosoki bo basango, yeka o molongo mo misato soko mpe mo mabotibwela ma baye bakonzina, Mpe onya okoyokela bato mawa yeka o milongo nkoto mi mabotibwela ma baye bakondinga mpe bakobaka misikiso mi Ngai.
+
+\v 7 Okozala nde otanga lina limbe Yawe, Nyambe e yo, mpamba te, nowela Yawe akozala tosabinya bosoki bombe banya bakotanga lina li Ye mpamba.
+
+\v 8
+
+\v 9
+
+\v 10
+
+\v 11 Okonisa busa bobule boyomisa na ntina e petolo bongo. Okosala mikolo motoba, na ntina esilisa lotomo lo yo loncoki. Ncande busa bo ncambo enga busa boyomisa bombe Yawe, Nyambe e yo: okozala nde osala lotomo loko te, soko yo, soko mwana o yo o bwele, soko mosali o yo o mwene, soko bibwele bi yo, soko mobutu onga o ndako e yo. Nowela o mikolo motoba Yawe akeli likolo, na nce, na ebale mpe na bincoki bikozalibwa, mpe ayomisi o busa bancambo: yengo enya Yawe ayeyi busa bonya bo mayomisela mpe apetoli bongo.
+
+\v 12
+
+\v 13
+
+\v 14 Tosaka sango e yo mpe nyango e yo, na ntina ete misa ma yo mabula o monce mokopesi Yawe Nyambe e yo. Ozala nde obomaka. Ozala nde okela ekobo te.
+
+\v 15
+
+\v 16
+
+\v 17 Ozala nde oyibaka. Ozala nde otatola mo lokuta na ntina e moninga o yo te. Ozala nde olula ndako e mozalani o yo te; ozala nde onono mwasi o moninga o yo te, soko mpe mosali o ye o bwele te, soko mpe mosali o ye o mwene te, soko ngombe e ye te, soko mpunda e ye te, soko eloko yoko e mozalani o yo te.
+
+\v 18
+
+\v 19
+
+\v 20
+
+\v 21 Bato banco ba yokaki nkake mpe lokuku lo kelelo; babonoki biloli bi meya o ngomba epimisaki ngiya. O mancoki malekaki, bato bawatisaki, mpe batemeni mosika. Balobeli Mosi: lobela biso yome, mpe lokoyoka; tika ete Nyambe azala nde tololobela, ekani biso nowa. Mosi alobi na bato: bozala nde na bongo te; nowela enga se na ntina e bomeka nde Nyambe ayi, mpe na ntina ete miso ma bino mazala na bongo na Ye mpe bozala nde osokoko. Bato batikani mosika; nde Mosi abemeneki na lipata o nongo eliki Nyambe.
+
+\v 22
+
+\v 23 Yawe alobi na Mosi: okoloba ombe bana ba Yisalaele ete: boboni ete nabolobeli bokumaka o likolo. Bokozala nde bisa okela nyambe li biyeli mpe li wolo te, na ntina eputinya lingo na ngai; bokozala nde bisa bisa okela lingo na ntina e bino te.
+
+\v 24
+
+\v 25
+
+\v 26 Okontongela etumbelo e maleba, o likolo li yengo okonkabela mbeka li ngolu ekwi yo, mbata li yo mpe ngombe li yo. O nongo linya linco likotele ngai lina li ngai na ntina ete okanisa ngai, nakoya ombe yo mpe nakokoyeya. Ndiki otongeli ngai etumbelo e mabwa, okozala totonga yengo na mabwa malengibwi (mapetwibwi); nowela ekolekisa yo etebu e yo o likolo li libwa, okobebisa yengo na bosoki. Okozala nde obata o etumbelo e ngai na minango te, na ntina ete mobwale mo yo mozala nde tobonono.
+
+\c 21
+
+\v 1 Keka mibeko mikopese yo ombe bango.
+
+\v 2
+
+\v 3
+
+\v 4 Ndiki osombi montamba ombe ba Ebele akosalela ye mibu motoba; nde mobu mo ncambo, akokopima ncomi nde toyutibwa. Ndiki aweli yeme akopima se yeme, nde ndiki aliki na mwasi akopima na mwasi o ye. Ndiki mwasi onya apesibwi na nkolo e ye, mpe mwasi onya amoboteli bana ba bampele soko mpe ba bene bana banya bakozala bambe nkolo e ye, bongo akopima se yeme.
+
+\v 5
+
+\v 6 Nde ndiki montamba alobi ete nakolinga se nkolo e ngai na mwasi na bana ba ngai, nakoyisa notikana mputa na nkolo e ngai. Angani nkolo e ye akokamba ye o boso bombe Yawe mpe akomobelemisa o ekuki, soko mpe olipata li ndako, nkolo e ye akokula ncete nomotuba litoyi ye akozala mo ntamba yekiliye (yek'o bosuku).
+
+\v 7
+
+\v 8 Ndiki moto ateki mwana o ye o mwene lokola montamba, ye akozala topima lokola ba ntamba banco. Bongo ndiki azali tobiokisa nkolo e ye, nkolo akoyisa nomoteke na moto mosiso. Anga nde oyisa noteke ye na mobutu te.
+
+\v 9
+
+\v 10
+
+\v 11 Ndeki amopesi ombe mwana o ye o bwele angani amomoyetisa lokola mwana oyeme o mwene nde montamba te. Ndiki akuli mwene mosiso, azala nde oseswisa onya te, amokelela manco makokomo ye nomokelela lokola mwene olibala: nomolisa, nomosombela bilamba mpe bongo na bongo ... Ndiki mobali azali mambi maye masato angani mwasi onya akopima o bontamba se mpamba, mosolo toyuta.
+
+\v 12
+
+\v 13
+
+\v 14 Onya okobete moto yek'o liwa akokula etumu e liwa. Nde ndiki aliki tomoboma na loma, Nyambe amosongimisi na ye, bongo Nakokolengelela nongo ebombana. Nde ndiki moto akaneli moninga na loma, soko mpe amobomi na mayele mabe, ncoki abombani o etumbelo bokata ye bo moboma.
+
+\v 15
+
+\v 16
+
+\v 17 Onya okobete sango e ye soko mpe nyango eye akokwa etumu e liwa. Onya okoyiba moto nomoteke soko mpe nomokwa n'etondo eyeme akokwa etumu e liwa. Onya okosela sango e ye soko mpe na nyango e ye akokula etumu e liwa.
+
+\v 18
+
+\v 19 Ndiki bato ba babale babuni, moko ati moninga libwa soko mpe liboto nde azali towa, bongo aweli ndako. Onya obeti moninga akokula mokumba momosalisa na bwale botoli ye, weki o makoswela ma ye, nomoyuta epoto e bwale bomotolisi ye. Ndiki onya oliki oto bwale akoyisa nobima o ndanda mpe notambola na mompampango
+
+\v 20
+
+\v 21 Ndiki moto abeti montamba o ye o bwele soko mpe o mwene mobeli, mpe awi o maboko ma ye, nkolo e ye akokula etumu. Nde ndiki azali towa o busa bo boso weki o busa bo mabale, bongo ayi nowa o misa ma mbisa, nkolo e ye akozala tokwa etumu nowela mot'onya asombibwi na mosolo mo ye.
+
+\v 22
+
+\v 23
+
+\v 24
+
+\v 25 Ndiki bato babale bakobuna, moko atuti mwene onya onga na zemi, mpe aboti tango na mokakatano bongo, mobali o ye akomoyutisa epoto o boso bombe ba zuzi. Nde ndiki mwene onya zemi lilongwi angani bakobukanisa bomoyi na bomoyi. Liso bukana na liso, lino bukana na lino, loboko bukana loboko, etambi bukana na etambi. Mpota e meya bukana na mpota e meya, mpota bukana na mpota, liboto bukana na liboto.
+
+\v 26
+
+\v 27 Ndiki nkolo aboli montamba o ye o mwene soko mpe o bwele liso, tuse amopimisa o bontamba bo ye, n'etondo e liso liboli ye. Soko mpe abunyi lino, tuse amopimisa o bontamba bo ye n'etondo e lino libunyi.
+
+\v 28
+
+\v 29
+
+\v 30 Ndiki ngombe ebomi bwele soko mwene na liseke li ye, bakoboma yengo na mabwa mpe mosuni moyengo mokozala tolibwa. Nde momene yengo akozala nde okwa etumu te. Soko Ngombe enya etoyisaka bato bwale banda kala, mpe batwetinya momene yengo, nde azali topaka nobatela yengo o lobalaka (lopango), mpe yengo ebomi bwele soko mpe mwene, Ngombe enya ekobomibwa na mabwa, mpe momene yengo akobomibwa, Ndiki motuya mo mosolo mopesibwi n'etondo e kambola ye o liwa, mpe bayuti mosolo monya, akozala bisa tobomibwa.
+
+\v 31
+
+\v 32 Ndiki Ngombe etoyisi mwana o bwele soko o mwene bwale, mobeko monya mokobakibwa se bongo. Ndiki Ngombe atolisi montamba o bwele sok'o mwene bwale, momene yengo akoyuta palata bweli ombe nkolo e montamba. Ngombe enya ekobomibwa na mabwa.
+
+\v 33
+
+\v 34 Soko moto atiki libela li mayi polele, soko mpe atimi libela, mpe Ngombe soko Mpunda ekiti o lingo, Momene libela akoyuta mosolo ombe nkolo o ebwele enya ewi.Bongo ye akokwa enya eliki ewa.
+
+\v 35
+
+\v 36 Ndiki Ngombe e moto mosiso ebomi e moninga, bongo bakoteke enya etikani na bomoyi mpe bamokaba mosolo; bongo bakokaba enya eliki ewa. Nde ndiki Ngombe enya enga e mokakatano mpe nobunisa baninga, momene yengo azali tomokanga na lopango, bongo ebomi Ngombe esiso; momene Ngombe eliki ewa amokula enya etikani na bomoyi, mpe amopese enya ewi embe onya oliki opese ye Ngombe etikani na bomoyi.
+
+\c 22
+
+\v 1
+
+\v 2
+
+\v 3
+
+\v 4 Ndiki moto ayibi Ngombe soko mpe mwana o Mbata, amoketi nkingo soko mpe amoteki, akoyuta Ngombe litano o epos'e Ngombe yoko mpe bana ba Mbata banei o epos'e mwan'o Mbata moko. Soko bamokati na ebwele eliki ayiba o loboko, bamobeti mpe awi, ndiki enga mokolo aki mpamba; Nde ndiki enga mwese, bakobila bato baliki bamoboma. Soko anga nabomoyi akoyuta biloko binya biyibi ye, ndiki toyisa noyuta akotekibwa n'etondo e loyiba lo ye. Soko biloko biliki ye ayiba binga nani o maboko ma ye: ngombe,mpunda, mwana o mbata, ndiki binga nani na bomoyi akoyuta bingo bibale bibale.
+
+\v 5 Soko moto ayeseni o lisala li moninga soko mpe o vinyo, ete ebwele e ye eki nobebisa lisala li moto mosiso, akoyuta mbolo lilamu nopita li lisala li ye mpe li vinyo e ye.
+
+\v 6 soko moto atumbi meya mikati lisala li moninga, milikisi mimboto mitemu na nzembu liliki liyoma, akobiangibwa noyuta lingo.
+
+\v 7
+
+\v 8
+
+\v 9 Ndiki moto apesi moninga mosolo soko mpe biloko amobombela, mpe bayibi bingo omaboko ma ye, moyibi akobutinya bingo kwa libale. Nde ndiki moyibi azali tobonono, monkolo ndako akoke o boso bombe Nyambe noloba polele ete naliki bingo tokata. Soko bato babale bakowela eloko, ezala ngombe soko mpunda, mwana o mbata, elamba soko eloko esiso elimbani mpe moko alobi ete: yengo eye ! bango babale bakoke weki ombe Nyambe; onya okobundwa amoyutela moninga kwa libale.
+
+\v 10
+
+\v 11
+
+\v 12
+
+\v 13 Soko moto apesi moninga mpunda soko ngombe, mwana o mbata soko mpe ebwele esiso abatela, bongo yengo ewi, elimani soko mpe ebunyi elama yoko, bango babale bakonosuba ndayi o miso mambe Nyambe, mpe onya obatelaki bibwele amoloba polele ete: naliki nde okata biloko bi moninga o ngai te. Monkolo biloko akoyqmba ndayi enya mpe moninga akozala toyuta bingo. Nde ndiki ebwele eyibibwi ombe ye, akozala kelelu noyuta yengo. Soko ebwele etali mpota, akoya na yengo lokola motato mpe akozala yengo toyuta.
+
+\v 14
+
+\v 15 Ndiki moto abeki ebwele ombe moninga mpe ebwele enya ebunyibwi elama yoko, soko mpe ewi o miso mankolo yengo bakozala toyuta yengo, Nde ndiki nkolo e yengo anga te bakoyuta yengo. Ndiki bayuti mosolo n'etondo e beka yengo, motuya monya mokoki.
+
+\v 16
+
+\v 17 Ndiki bwele akutinyi ngondo e mwene onga nani bampele toyeba, onga mpe na mobando te, ndiki aputani na ye, akoyuta mosolo mo libala mpe akobala ye; Nde ndiki sango aboyi bwele bonya, akomoyutisa mosolo o motuya mo bangondo ba bene banga nani bampele toyeba.
+
+\v 18
+
+\v 19 Okozala totika mokeli mpapo o mwene na bomoyi. Owani okoputa nzoto na ebwele akokula etumu eliwa.
+
+\v 20
+
+\v 21 Onya okotumba mbeka ombe nyambe lisiso linga nde Ngai Yawe te, akoleka o mosinano. okozala nde tonyokolo mobutu mpe okozala tomokambisa nowela bino boliki mpe babutu o monce mo Ezipeto.
+
+\v 22
+
+\v 23
+
+\v 24 Tokelaki lokeketi ombe etuka e mwene mpe na mwana o etiki. Ndiki bobakeli lokeketi mpe bango baleli ombe ngai, nakoyoka bilelo bi bango; Nkelele e Ngai ekobula mpe Nakoboboma na mopata; basi ba bino bakotikana bituka bi bene mpe bana ba bino bitiki.
+
+\v 25
+
+\v 26
+
+\v 27 Ndiki obekisi bato ba Ngai mosolo, osungi moyoko onga mputa na yo, okozala toyaka matomba o mosolo monya. Ndiki okuli elamba e moninga ntuka, okobutinya yengo o boso bobusa noyinda;
+
+Nowela enga nkamba e ye se yoko ekopotoko ye nzoto; akopotoko nzoto na nde ? Ndiki aleli ombe Ngai nakomoyokela nowela Nanga Nyambe emolika.
+
+\v 28 Okozala toseswisa Nyambe mpe okozala to sela mokonzi o libota li yo.
+
+\v 29
+
+\v 30
+
+\v 31 Okozala toyengeyenge nompese mbolo liboso li lisala li yo mpe li vinyo e yo. Okompese mwana o boso o bana ba yo ba bampele. Okompese mpe mwan'oboso o ngombe mpe o mbata; akobika mputa na nyango mikolo ncambo nde, bongo okoya nompese o busa bo mwambi. Bokozala ombe Ngai bato ba bule. bokozala tole ebwele eliki etala mpota o lisala, epesibwa ombe bwa.
+
+\c 23
+
+\v 1
+
+\v 2
+
+\v 3 Tolobaki zambi li lokuta. Tozalaki mputa na moto mobe mpe notatolaki motato mo lokuta. Tobilaki lingunda n'etondo ekela bobe, elembe embanzo, totalaki lokola ekolinga bato bayike ndiki makoloba bongo enga lokuta. Tosungaki moto onya okobundwa o mbanzo.
+
+\v 4
+
+\v 5 Ndiki oboni ngombe soko mpe mpunda embe moyini oyo, elimbani omokulela yengo mpe keke nopese. Ndiki oboni mpunda e moyini oyo ekoyi na zumba, omoyakolela yengo, nomosundisela zumba linya
+
+\v 6
+
+\v 7
+
+\v 8
+
+\v 9 O mbanzo, tokelaki monzeke ombe moyoko nowela ye akokamba na bosungi bo yo. Toyokaki mambi ma lokuta. Tobomaki moto oliki zambi tokela soko mpe moto o bonyomeni. Ndiki okeli bongo, Ngai Nkolo, Nakoloba ete oliki nde okela libe te. Toyambaki likabo ncoki loko te, nowela makabo makokanga bato banga miso polele, mpe makobesa mbanzo li bato ba bonyomi. Tonyokoloki babutu ombe bino, bokoyeba bango bolamu, nowela bino mpe boliki ba butu o monce mo Ezipeto.
+
+\v 10
+
+\v 11 Bokosala masala mibu motoba mpe bokobuka mbolo. Mobu mo ncambo bokowukisa masala manya; bongo bayoko o ntantei e bino bake nokula boli, mpe bibwele bale biloko binya bikotikana. Bokokela bongo na vino li bino mpe na bilayi.
+
+\v 12
+
+\v 13 Okosala lotomo mikolo motoba. Nde (o mokolo mo ncambo) okolomisa n'etondo ete ngombe e yo mpe mpunda e yo elomisa; mwana o montamba o yo mpe mobutu balomisa. Botosaka maye manco maliki ngai na lobela bino mpe bozalaka nde otanga mina ma ba nyambe basiso o minya ma bino te.
+
+\v 14
+
+\v 15 Mobu na mobu bokokelaka bilambo bisato n'etondo esanzola ngai. Okokela feti e mampa ma ewulubisa te mikolo ncambo, o eyeli enya ekosola masangu, okole mampa ma ewulubisa te, lokola elobi ngai yo, nowela enga o eyeli enya ebimi yo o Ezipeto; moto moko te oya ombe ngai maboko mpamba.
+
+\v 16
+
+\v 17 Okotosaka feti enya e mabukela, mbolo li boso li lotomo lo yo lo masala mpe feti e mabukela o bosuku bo mobu. Bampele banco bakoyaka ombe ngai Nkolo Yawe kwa lisato na mobu.
+
+\v 18
+
+\v 19 Ekopeseke bino ngai makabo ma bibwele, toyaki na mampa ma ewulubisa; bongo tobatelaki mali ma bibwele kuma o mpokwa weki o ntongo. Mbolo liboso likobuka yo o lisala, oya na lingo o ndako e ngai Yawe Nyambe e yo. Tolambaki mwana o ntaba okonwanga nani mabele ma nyango.
+
+\v 20
+
+\v 21
+
+\v 22 Keka nakotinda Anzelu ombe na ntina ekobatela o nzela, mpe n'etondo ekoyetisa o nongo eliki nakolengelela. Bwakinya, mpe yoka likingo li ye; toboyaki zambi li ye, akozala tosabinya ncoki li yo nowela akosala n'etondo e lina li ngai. Nde ndiki oyoki likingo li ye, mpe okeli se lolenge lokoloba ngai, nakozala moyini o bayini ba yo, mobunisi o babunisi ba yo.
+
+\v 23
+
+\v 24
+
+\v 25 Anzelu (ntoma) e ngai akotambola o boso bo yo mpe akokokamba ombe ba Amoleyene, ba Etiye, ba Bafiliziye, ba Kanana, ba Eveye, ba Zebusi mpe nakoboma bango. Tokumbamelaki ba nyambe li bango, tosalelaki lingo; tomekolaki etamboli e mabota ma ye nde okobabama, mpe okobunyaka bikeko bi bango. Okosalela Yawe Nyambe e bino, mpe ye akoyeya limpa li yo mpe na mayi ma yo, nakotangola male o ntantei e yo.
+
+\v 26
+
+\v 27
+
+\v 28
+
+\v 29 O monce mo yo ekozala nde na mwene okolongwibwa zemi te, ekomba mpe te. Nakoyaka mikolo mi bino. Nakotinda bongo bo ngai o boso bo yo, nakobulunginisa bato nongo linco likoyetela yo, nakokotwisa bayini ba yo banco o boso bo yo. Nakotinda mancila o boso bo yo, mpe makobengisa (makotangola) mosika na yo ba Eviye, ba Kanana, mpe ba Etiye. Nakozala tobabengisa se na mobu moko mpamba te, nokotola ete monce no zengwa esobe mpe bibwele bikoti bizamba nobotibwa na boyike mpe bingo nozengwa esongo na yo.
+
+\v 30
+
+\v 31
+
+\v 32
+
+\v 33 Nakobababengisa na moyi na moyi bake mosika weki n'ekobula yo nozengwa na boyike mpe nokwa monce monco. Nakotele ndelo li yo banda o libeke li mondo weki o libeke li ba Filisitiya, mpe banda o esobe weki o ebale; nowela nakopese o maboko ma yo bato bakozala o monce moye, mpe okobangisa o boso bo yo. Toyokanaki na bango, soko mpe na banyabe li bango. Bakozala tozala o monce mo yo nokotola ete bakelela yo lisumu ombe ngai; nowela okosalela ba nyambe ba bango, mpe ekozala motambo ombe yo.
+
+\c 24
+
+\c 25
+
+\v 1
+
+\v 2 1: Nyambe alobi na Mosi ete.
+
+2: Loba na bana ba Yisalaele: Baya nompose makabo; bokonkulela mango ombe bato banco bakopese na moloko moloko.
+
+\v 3
+
+\v 4
+
+\v 5
+
+\v 6
+
+\v 7 3: Keka makabo manya makokulela bino ombe bango: wolo, palata mpe na biyeli;
+
+4: Bilamba bi bokobo bo bule, bi ngola, ngola na piti, bi motuya, nzoso lintaba; 5: biteke bi mbata o bokobo bo mondo, mpe biteke bi lokukutu, mabaya ma moselunga, 6: mali ma mpaka e Tempelo (ndako e bo Nyambe), malasi ma mali e nguya e molimo (ma boyengebeni, boyeyibwi), malasi ma ncolo elamu; 7: mabwa ma motuya mpe mabwa masiso mangengisa Efode, mpe na Pekitola.
+
+\v 8
+
+\v 9 8: Nongo e bule embe mbondela, mpe nakobika o ntantei e bango. 9: Bokotonga mongomgo mpe biloko binco bikokomo nozalibwa,(biloko bi bule) se o lolenge lokokolakisa ngai nokela.
+
+\v 10
+
+\v 11 10: Bakokela nkobele na libaya li akasia, ekozala na bosanda bo bimeko bimeko bibale na etomba, bone bo emeko yoko na etomba mpe mokongo mo emeko yoko na etomba. 11: Okolinga yengo na wolo elamu, okolinga yengo o moyi mpe na o ndanda, okolinga minankako mincoki mi yengo na wolo.
+
+\v 12
+
+\v 13
+
+\v 14 12: Okotula bibanga binei bi wolo (okotula na ntin'eyengo bibanga bi nei bi wolo,mpe okotele bingo o makono mancoki manei ma yengo, bibale o lokenge loko mpe bibale mpe bibale olokenge losiso) mpe okotele bingo bibanga binei bi wolo mpe okotele bingo o makono manco manei ma nkobele bibanga bibale lokenge na lokenge. 13: okokula miete misanda mi akasia mpe okolinga mingo na wolo. 14: Okowelisa miete minya o bibanga lokenge na lokenge lo nkobele n'etondo misunga no nyanya yengo.
+
+\v 15
+
+\v 16
+
+\v 17
+
+\v 18 15: Miete minya mikotikana o bibanga bi nkobele
+
+, mpe mikozala tolongwa. 16: okototele monkana mo motato (mbengu) mokokopese Ngai. 17: Okokela epotele na wolo elamu; bosanda boyengo bokozala bimeko bibale na etomba mpe bone boyengo emeko yoko na etomba. 18: Okokela bakeluba libale li wolo, okokela lingo na wolo etulibwi, omasukela manco mabale ma epotele;
+
+\v 19
+
+\v 20
+
+\v 21 19: Tele keluba yoko o bosuku boko mpe esiso o bosuku bosiso; bokotele keluba likopima o masukela manco mabale ma epotele. 20: Keluba likosembola mapapu ma lingo, mpe makopotoko epotele, lingo likokekinya co na co mpe bilongi bi lingo bikeka lokenge lo epotele. 21: Okotika epotele o likolo li nkobele, mpe o nkobele okotele motato mokokopese ngai.
+
+\v 22 22: Enya enga nongo ekongondwasana ngai na yo; o ntanteyi e keluba libale litelibwi o likolo li motato, nakokopese misikiso mi ngai na ntina e bana ba Yisalaele.
+
+\v 23
+
+\v 24 23: Okolengele mesa yoko na mabaya ma akasia; bosanda boyengo ekozala bimeko bibale, bone boyengo emeko yoko mpe mokongo mo yengo emeko yoko na etomba. 24: Okolinga yengo na wolo elamu mpe okolekisa wolo o nkako na nkako liyengo;
+
+\v 25
+
+\v 26
+
+\v 27 25: Okolingele yengo na mwa lopangu mpe okolinga lopangu lonya na ndelo li wolo, 26: Okolenge bibanga binei bi wolo, okotele bingo o makono manei n'etondo elikela makolo ma mesa. 27: Bibanga bikozala belebele na monkako mo mesa mpe miete misanda mikowele o bibanga n'etondo enetola mesa.
+
+\v 28
+
+\v 29
+
+\v 30 28: Okokela mabaya na miete mi Akasia, okolinga mingo na wolo na ntina ememe mesa. 29: Okolengele nzungu, basani, bakopo, nkeni, nkeni likelike, na wolo esolo na ntina e makabo ma vinyo.
+
+30: Okoteleke o mesa eye limpa libulibwi, misa mancoki, o miso ma ngai.
+
+\v 31
+
+\v 32 31: Okolengele etemelo e mpaka na wolo e solo, bakobete yengo mpe bakolengele lokolo lo yengo, mwete, kopo, mbolo mpe na makelele; lincoki se o eteli yoko. 32: Bitomba motoba bikokelibwa o etemelo e mpaka: bisato lokenge loko mpe bisato lokenge losiso.
+
+\v 33
+
+\v 34 33: Etomba yoko ekozala na kopo lisato o lolenge lo (amandele) mputa na mbolo mpe makelele; etomba esiso mpe ekozala na kopo lisato o lolenge lo (amandele) mputa na mbolo mpe na makelele. 34: Ekokelibwa bongo o bitomba motoba bincoki bi etelelo e mpaka. O mwete mo etelelo e mpaka ekozala na kopo linei lilolenge lo (amandele) mputa na mbolo li lingo mpe makelele ma lingo.
+
+\v 35
+
+\v 36 35: Bitomba motoba bi etelelo e mpaka bikoputana bibale bibale mpe once e bibale lombolo loko. 36: Mbolo na bitomba bi etelelo e mpaka bikozala binco na libwa lilolenge loko; mpe bakolingo na wolo elamu etulibwi.
+
+\v 37
+
+\v 38
+
+\v 39
+
+\v 40 37: Okolengele mpaka ncambo, likokelibwa o likotelibwa o likolo na ntina epese ncengi.
+
+38: pinu na tasi li mpukutu lil lingo likozala li wolo elamu. 39: Bokosalela ntalanta yoko e wolo elamu na ntina elengele etelelo e mpaka mpe na biloko yengo binco. 40: keka, mpe lengele lokola ekolakisi bango o likolo li ngomba.
+
+\c 26
+
+\v 1
+
+\v 2
+
+\v 3 1. Okolengele mongombo mombe Yawe, molingibwa na bilamba zomu bi nzoso, Na musinga mikoti, mputa na elamba esiso elamu ekozala Na mpumbu, e bokobo bo mondo, mpe e bwebwe na keloo. Botombo bato bakoyisa nosokolo ntoma li likolo Na mankembo o boso bo yengo. 2. Bilamba bilianga bitutu, fuse bikokana bosanda bo bimeko makwabale na mwambi li bosanda mpe na bokuse bo bimeko bineyi. 3. Bokoputinya bilamba binya bilinga obitutu : bitano bitano.
+
+\v 6
+
+\v 4
+
+\v 5 Bokotele musings mi bulebule o bosuku bo elamba eputinyi bino e boso; mpe bokokela bisa se bongo o elamba ekoputinya bino e bibale. Bokotele musinga nyumitano o busuku bo elamba e boso mpe, bokotele bisa musinga nyumitano o bosuku bo elamba enya etikani, musings minya tuse bikokana. 6. Okotele pinu li will liyisa noputinyaka bilamba binya mpe nokabolaka bingo.
+
+\v 7
+
+\v 8
+
+\v 9 Bongo, omolengele na nzoso li ntaba, nkamba li motonga yo mongombo mosiso, kuma o moboso, o motuya mo bimeko zomu na Yoko. Elamba yoko ekozala na bosanda bo bimeko bweli mpe na bokuse bo bimeko bineyi, ezala emeko enya na etondo e elamba yoko na yoko, o bilamba bincoki zomu na yoko. Okoputinya mamputa matano lokenge look mpe, o lokenge losiso : mamputa motoba; bongo, okoyaka limputa li motoba nopoto boso bo mongombo.
+
+\v 10
+
+\v 11 Okotele misinga nyumitano o bosuku bo mamputa maputinyi bango boso, mpe o mamputa manya matikani, misinga mitelibwa bisa nyumitano. Omolengele pinu nyumitani likoyisa yo nocuka mamputa manco, mapimisa se limputa loko, bilinga mongombo moncoki, na misinga.
+
+\v 12
+
+\v 13
+
+\v 14 12. Bongo, mamputa manya makotikana, makozonga makusa ma mongombo; 13. Madison matikani, makozonga o bosanda bo mongombo. 14. Okolengele nkamba e bwebwe na eteke e mbata, bongo okolengele mpe nkamba esiso na eteke e ebwele ekopotibwa o likolo li eyango e bibale.
+
+\v 15
+
+\v 16
+
+\v 17
+
+\v 18 15. Okolengele mabaya na ntina e mongombo; makokelibwa na mwete mo
+
+moselunga, matelibwa misika. 16. Bosanda bo libaya loko bokozala bo bimeko zomu, mpe bone bo libaya bokozala bo emeko yoko na etomba. 17. Bongo, mabaya maputana mabale mabale, yeka na ekoputana mango mancoki na ntina elengele mongombo. 18. Okokwa mabaya makwabale, mpe okolengele eyango o ntanteyi e mongombo.
+
+\v 19
+
+\v 20
+
+\v 21 19. Okokela mpe makoto nyumineyi ma eyeli e mbenza o nce e mabaya makwabale, makoto mabale o nce e libaya loko na loko na ntina e nconge li yengo libale. 20. Okolengele mabaya makwabale na ntina e lobanzi lo libale lo mongombo, lokenge lo mokolo, 21. mpe makoto ma mango nyumineyi ma eyeli e mbenza, makoto mabale o nce e libaya loko na loko.
+
+\v 22
+
+\v 23
+
+\v 24
+
+\v 25 22. Okolengele mabaya motoba na ntina e ntando e mongombo, o lokenge lo wesete. 23. Okolengele mabaya mabale na ntina e makono ma mongombo, o moyi; 24. makozala mabale kuma o nce, mpe mkangibwa bolamu o nconge e mango na ebanga; ekokelibwa bongo na ntina e mancoki mabale, matelibwi o makono mabale. 25. Ekozala bongo na mabaya mwambi, na makoto ma mango ma eyeli e mbenza, lokola makoto zomu na motoba, makoto mabale o nce e libaya loko na loko.
+
+\v 26
+
+\v 27
+
+\v 28 26. Okolengele bitomba bitano na mwete mo moselunga na ntina e mabaya ma lokenge loko lo mongombo, 27. bitomba bitano na ntina e mabaya ma lokenge lo libale lo mongombo, mpe bitomba bitano na ntina e mabaya ma lokenge lokolengele moyi mo mongombo o loboko lo wesete. 28. Etomba e mwete e ntanteyi ekoketinya mabaya banda o bosuku boko yeka o bosuku bosiso.
+
+\v 29
+
+\v 30 29. Okolinga mabaya na wolo, mpe okolengele bibanga bi wolo na ntina ewelisa bitomba bi miete, mpe okolinga bingo na wolo. 30. Okotemisa mongombo o lolenge lokolakisi bango o ngomba.
+
+\v 31
+
+\v 32
+
+\v 33 Mamputa mabale
+
+Map. 36:35-38; Baeb. 9:1-12
+
+(Baeb. 6:19, 20; 10:19-22)
+
+31. Okolengele limputa li bulebule, li langi li wolo mpe li mpili, mpe na elamba e lele; ekolengibwa na bwanya bokoti, mpe bakosokola malilingi ma bantoma ba boso o likolo li yengo. 32. Okotele yengo o mapata maneyi ma moselunga, bolingibwaka na wolo; makonzi manya makozala na mantaka ma wolo, mpe makoyakibwa o makoto maneyi ma eyeli e mbenza. 33. Okotele limputa line o nce e pinu, mpe ongo, o moyi mo limputa line, okowelisa nkobele e motato; limputa line likosunga na ntina ekakola nongo e bule mpe na nongo ekopita bule be.
+
+\v 34
+
+\v 35 34. Okotele epotele o likolo li nkobele e motato o nongo ekopita bule be. 35. Okotele mesa o ndanda e limputa line, mpe kopo e mpaka o ncena e mesa, o lokenge lo wesete e mongombo; mpe okotika mesa o lokenge lo mokolo.
+
+\v 36
+
+\v 37 36. Okolengele na ntina e munya mo mongombo limputa li bulebule, li langi e wolo mpe li mpili, mpe na elamba elamu e lele; ekozala etongela elamu e mankembo. 37. Okotemisa na ntina e mamputa ma minya mi wele, makonzi matano ma moselunga, mpe okolinga mango na wolo; makozala na mantaka ma wolo, mpe okolengele na ntina e mango makoto matano ma eyeli e mbengi.
+
+\c 27
+
+\v 1
+
+\v 2 Bolimboli bo etumbelo, bo makabo ma botumbaka, mpe bo etando ence e ndako. 1 Okokela etumbelo na libaya li moselunga; bosanda bo yengo bokozala bo bimeko bitano, mpe bone bimeko bitano. Etumbelo ekozala na bosanda se boko o nkenge li yengo linco, mpe mokongo mo yengo mokozala na bimeko bisato.
+
+\v 2 Okokela, o makono mancoki manei, maseke makopima nopita etumbelo, mpe okolinga yengo na eyeli e mbengi.
+
+\v 3
+
+\v 4 Okokela, na ntina e etumbelo, kopo litele mpaka, matoko, saani, bingasa mpe bilenge; okolengele biloko binya bincoki na eyeli e mbengi. Okolengele o etumbelo lokala na eyeli e mbengi, lokozala na malusu, mpe okotele o makono manei ma lokala, bibanga bi eyeli e mbengi.
+
+\v 5
+
+\v 6 Okotele longo o nce e minkako mi etumbelo, nobanda o nce yeka o ntanteyi e mokongo mo etumbelo. Okolengele bitomba bi miete, na mwete mo moselunga, mpe okolinga bingo na biyeli bi mbengi.
+
+\v 7
+
+\v 8 Bakowelisa bitomba binya bi miete o bibanga; mpe bikozala o nkako libale li etumbelo, o nkomo ekomeme bango yengo. okolengele yengo ete ezala polele o ntantei, na mabaya; ekokelibwa o lolenge lokolakisi bango o likolo li ngomba.
+
+\v 9
+
+\v 10 Okokela falanda ene e mongombo o lokenge lo ntantei, na ntina etonga falanda, ekozala na bilamba bi lele, o bosanda bo bimeko monkama na ntina e nkako enya e boso, ekozala na mapata (bisulu) makwabale manga na biyeli bi mbengi o nce (makoto) e bingo; bisimbiselo mpe mantaka ma mapata makokelibwa na eyeli e mbenza.
+
+\v 11
+
+\v 12
+
+\v 13 O lokenge lo mokolo, ekozala mpe na bilamba bi lele, o bosanda bo bimeko monkama, na mapata makwabale mpe na makoto ma mango makwabale bokelibwaka na eyeli e mbengi; bikangela mpe mantaka ma mapata makokelibwa na eyeli e mbenza. O lokenge lo wesete, na ntina e bone bo falanda, ekozala na bilamba bi lele o bosanda bo bimeko nyumitano, na mapata zomu mpe makoto ma mango zomu. O lokenge lo esete, o bimeko nyumitano bi bone bo falanda,
+
+\v 15
+
+\v 16
+
+\v 14 Ekozala na bimeko zomu na bitano bi bilamba o lipapu loko, mapata masato mpe makoto masato,
+
+\v 15 mpe bimeko zomu na bitano bi bilamaba o lipapu li mabale, na mapata masato mpe makoto masato.
+
+\v 16 Na ntina e ekuki e falanda, ekozala na elamba ene e bimeko makwabale, e langi li bule, langi e wolo mpe langi e maleba, mpe na bilamba bi lele bilamu, lotomo lolamu lotongibwi na mankina, ekozala na mapata manei mpe makoto ma mango manei.
+
+\v 18
+
+\v 17 Mapata mancoki makolengele (makokete) moyi (bone) mo falanda, makozala na mantaka ma biyeli bi mbenza, bikangela bi biyeli bi mbenza, mpe makoto ma biyeli bi mbengi. Bosanda bo falanda, makozala na mantaka ma biyeli bi mbenza, bikangela bi biyeli bi mbenza, mpe makoto ma biyeli bi mbengi.
+
+\v 18 Bosanda bo falanda bokozala bo bimeko monkama, bone bimeko nyumitano o nkenge lincoki, mpe mokongo mo bimeko bitano; bilamba bikozala bi lele, mpe makoto ma eyeli e mbengi.
+
+\v 19 Nzungu mpe sani lincoki likosunga na ntina e lotomo o mongombo, biloko bincoki bi mongombo bikosunga na ntina e boyambi, mpe bincoki bi falanda, bizala (bikokelibwa) na eyeli e mbengi.
+
+\v 20
+
+\v 21 Okosikisa ombe bana ba Yisalaele ete, na ntina e mpaka, bakobekele mali malamu ma bilaya binyilibwi, na ntina ebatela eloli e mpaka ndembe lincoki (na ntina ete eloli e mpaka ezala nde olimaka). Ekozala o moyi mo mongombo mo sembola makabo, o ndanda e elamba enga o boso bo nongo epese mitato, ongo Alona na bana ba ye bakolengele mali manya, na ntina ete mpaka lilola kuma o mpokwa yeka o ntongo, o boso bombe Yawe. Enga mosikiso monga nde na bosuku te ombe bana ba bango, mpe mokosenga nobakibwa na bana ba Yisalaele.
+
+\c 28
+
+\c 29
+
+\v 1
+
+\v 2 Keka lolenge lokokela yo na ntin'ebulisa Alona mpe bana baye ete bazala basali o lotomo lo ngai. Kula mwan'o ngombe moko o bwele mpe mbata libale li bampele likokutwa boleme. Kwa (kula) likelele li miete mo falini mpe lengele mampa makosenga ewulubisela lilingibwa na nceli mpe ba gato likelike likosenga ewulubisela litangibwi mali.
+
+\v 4
+
+\v 3 okotele lingo o ntoko yoko ekaba ngombe na mpe mbata libale li bampele.
+
+\v 4 Okopusa Alona mpe na bana baye belebele na mosoko na boyokani mpe okobasosisa na mayi.
+
+\v 5
+
+\v 6
+
+\v 7 okokula bilamba; okoswisa Alona monkoto elamba e epode, na epode mpe na pekitola mpe okomotelela noncenge mo epode. okoyaka lituaya o mutu mpe okotele elembo e bopeto (e bonganga) o likolo li litwaya. okokula mali mabulibwi mpe okosekolo mango o mutu moye mpe okomobulisa.
+
+\v 8
+
+\v 9 Okopusa belebele bana baye mpe okobaswisa minkoto. okobaswisa moncenge moko, Alona na bana baye mpe okokanga o mitu mi bana bilamba bikebike. lotomo lombe mpembe lokokelibwa na bango, moboso yeka masukela okobabulisa bongo, Alona na bana baye.
+
+\v 11
+
+\v 10 Okoya na ngombe o mosoko mo boyokani mpe Alona na bana ba ye bakotele maboko ma bango o likolo li mutu mo ngombe e bwele.
+
+\v 11 Okokete yengo mutu o boso bombe Yawe o ekuki e mosoko mo boyokani.
+
+\v 13
+
+\v 14
+
+\v 12 Okokula na mosayi malongo malongo ma ngombe e bwele mpe okotele o mintapi mi etumbelo, mpe okocekolo (okocakinya) malongo manco o makolo ma etumbelo.
+
+\v 13 Okokula mali manco makozonga bilokobi moyi, nkoto na mabalela mpe na mali zongazonga okotumba binco o etumbelo.
+
+\v 14 Nde okotumba o meya mi ndanda misuni mi ngombe e bwele, eteke eye mpe na mbindo liye li moyi: eye enga mbeka na ntin'e lisumu.
+
+\v 15
+
+\v 16
+
+\v 17
+
+\v 18 Okokula moko o mbata e bwele mpe Alona na bana baye bakotele (bakoyakela) maboko o mutu mo yengo.
+
+\v 16 Okokete yengo mutu, okokula malongo mpe okocakinya mango o etumbelo nkako na nkako. Okokete yengo bitomba bitomba, okoponga biloko bi moyi mpe na makolo mpe okotele bingo o likolo li bitomba na o likolo li mutu. Okotumba mbata e bwele eye enco o etumbelo; enya enga likabo limbe Yawe, enga mbeka e meya, e ncolo elamu ombe Yawe.
+
+\v 19
+
+\v 20 Okokula mbata e bwele e bibale enya esiso Alona na bana baye bakoyakela maboko o mutu mo yengo. Okokete yengo mutu, okokwa malongo mpe okosinga o epotele(o mbisa) e litoyi li mobali limbe Alona na bana baye banco, o mosayi mone mo loboko lo bango lo mobali mpe o mosayi mone mo lokolo lo bango lo mobali mpe okocakinya malongo o etumbelo nkako na nkako.
+
+\v 21 Okokula malongo manya makozala o etumbelo mpe na mali mabulibwi, okotangisa mango mabolisa na Alona na bilamba bi bana baye (ombe Alona mpe o bilamba biye) ombe bana baye mpe o bilamba bi bana baye. Na bongo ekobulibwa Alona na bilamba biye mpe bana baye na bilamba bi bango.
+
+\v 22
+
+\v 23 okokula Mali mbata na moncala mo yengo,Mali makolinga biloko bi moyi, nkoto, mabalela mabalela MPE na Mali (Maliki balinga) kayaks mputa na bingo, na mpe libeki li mobali, nowela enga mbata e bobulibwi; okokula bisa limpa loko, limpa likelike loko li Mali mpe bisa lisiso likelike, o ntoko e mampa ma ewulubisela te, enga etelibwi o boso bombe Yawe.
+
+\v 24
+
+\v 25 okotele biloko biye binco o maboko mambe Alona mpe o maboko ma bana baye, okonetola bingo nolakisa o Miso mambe Yawe. Na mbisa okolongola bingo o maboko ma bango mpe okotumba bingo o etumbelo, o likolo li makabo ma botumbaka; enga mbeka elikisa o meya o boso bombe Yawe, mbeka e ncolo elamu ombe Yawe.
+
+\v 26
+
+\v 27
+
+\v 28 Okokula ntoko e mbata enga eluki babulisa Alona mpe okonetola yengo nolakisa o Miso mambe Nyambe, enga ekozala likabo li yo.  okobulisa ntoko na libeki li mbata linya liliki babulisa Alona na bana baye; okonetola bingo nolakisa o Miso mambe Yawe.  Bingo bikozala bombe Alona na bana baye, ekozala mobeko mo bobelele mokobanda bana ba Yisalaele notosa; nowela enga makabo ma bonetoli; mpe o makabo ma botondoko ma bana ba Yisalaele, likabo li bonetoli bikozala limbe Yawe.
+
+\v 29
+
+\v 30 O mbis' embe Alona, bilamba biye bobulibwi bikozala bi bana ba ye. Bango bakoswa bingo elembe ekobasungela bango mpe ekobabulisa bango. Bilamba binga bikoswibwa mikolo ncambo na means onya okokula (okowele) o bingo e Sango e lotomo limbe Nyambe mpe okowele o mosoko moboyokani ( bongondwasani) na ntin'esala lotomo o ndako eye ebule.
+
+\v 31
+
+\v 32
+
+\v 33
+
+\v 34 Okokula mbata e bwele e bobulibwi mpe okotumba mosuni o bingo Yoko e bule. Alona na bana ba ye bakole mosuni mo mbata na limpa liliki o ntoko, bakole o eluki e mosoko mo boyokani (bongondwasani). Bongo bakole biloko bi bopetwibwi n'etondo ete basaka bobulibwi mpe bapetwibwi; Mobutu moko te noyisa hope bingo nowela enga biloko bi bule.  ndiki mosuni bobulibwi soko mpe limpa litikani yeka na ntongo, okobulisa lingo o meya; moto ekozala lingo told nowele enga eloko e bule.
+
+\v 35
+
+\v 36
+
+\v 37 Okotosa manco makokolobela ngai na ntina  embe Alona na bana ba ye. Okokula mikolo ncambo na ntin'esala ba bulisa.  Busa na busa okopeseke ngombe e bwele lokola mbeka e savings lisumu. Okopetolo etumbelo na bosabinyi bonya mpe okotangisa mali na ntin'ebulisa yengo. Mikolo ncambo, busa na busa okobutwelaka mbeka e bosabinyi o etumbelo mpe okobulisaka yengo; angani etumbelo ekotikana bule mpe bincoki bikotuta etumbelo bikoyetela bule.
+
+\v 38
+
+\v 39 leka biloko bikokaba(bikomeme) yo o etumbelo: bana ba mbana babale ba mobu moko, mikolo bincoki yek'o bosuku (mabikela). okosembola mwana o mbata moko na ntongo mpe mosiso o ntantei e mikolo.
+
+\v 40 Mputa na mwan'o mbata o boso okoputinya ba kilo lisato li fulele e falini ebetibwi o mali ma peto, litele yoko na etomba; na mbisa omosekolo litele yoko na etomba e bingo lokola bongo e lisanda mwan'o mbata yoko na yoko.
+
+\v 41
+
+\v 42 Okosembola mwan'o mbata o babale o ntantei e mikolo mputa na likabo loko mpe na ntongo e lindisa se lolenge lokeli yo na ntongo; enga enga mbeka etumbibwi, e ncolo elamu o boso bombe Yawe.  Keka likabo li bobelele likopesibwaka na bakitani ba bino o eluki e mosoko mo boyokani o boso bombe Yawe, was be ndé nakongondwasanaka na bino mpe ete nakokolobelaka.
+
+\v 43
+
+\v 44 Nakobanda nongondwasana na bana ba Yisalaele angani mpe bongo enga ekobulibwa na mankembo ma ngai.  nakobulisa mosoko mo nongondwasana (boyokani) mpe na etumbelo; nakobulisa Alona mputa na bana baye n'etondo ete babika SE o lotomo lo ngai.
+
+\v 45
+
+\v 46 Nakobika mputa na bana ba Yisalaele mpe nakozala Nyambe e bango. Bango bakososolo ete nanga Yawe, Nyambe e bango o bapimisi o monce mo Ezipeto, ete bazala o nongo e bangome. Ngai nanga Yawe, Nyambe e bango.
+
+\c 30
+
+\c 31
+
+\c 32
+
+\c 33
+
+\c 34
+
+\c 35
+
+\c 36
+
+\c 37
+
+\c 38
+
+\c 39
+
+\c 40
+
+\v 1
+
+\v 2 MOBEKO N'ETONDO ELENGELE (NOTEMISA) MONGOMBO
+
+Yawe alobeli mosi ete: obusa bo boso bo eyeli e yambo okotemisa (okolengele mongombo o ndako e moyongani).
+
+\v 3
+
+\v 4 Okotele nkobele e mibeko mpe okolinga yengo (kobele) na elamba. Okotele mesa mpe okotele bisa biloko olikolo li yengo, oke notemisa eyakelo e mpaka mpe okotemisa mpaka linya.
+
+\v 5
+
+\v 6
+
+\v 7 Okotemisa mpe nongo etumba mbeka (etumbelo) e ncolo n'etondo e mpaka na malasi o boso bo nkobele e mibeko okopoto (no linga o munya mo nkobele enya) na elamba. Okotele nkobele e mibeko o boso bo mongombo o ndako e moyongano. Okotele nzungu e mayi o ntantei e nongo e moyongano na nongo e botumbi (etumbelo) mpe okotele mayi o moyi mo yengo.
+
+\v 8
+
+\v 9
+
+\v 10
+
+\v 11 Okolinga yengo zo na zo mpe okotele elamba o boso ( o ekuki, o munya mo yengo).   O mbisa enya okokula mali ma bulibwi, mpe okosinga mango (okobulisa) o mongombo mpe na biloko binco binga o mongo mpe okobulisa nongo enya ete ezala bule.  Okobulisa nongo e botumbibwi , mpe na biloko binga o yengo, na etumbelo mpe ekozala bulee. Okosinga malasi o nongo e bososi mpe o etemisela e yengo mpe okobulisa yengo.
+
+\v 12
+
+\v 13 O mbisa enya okoya na Alona na mpe bana ba ye ba bampele o boso bo ekuki e ndako e moyongano mpe okobasosisa na mayi. Bongo okoswisa Alona bilamba bi bulee mpe okomosinga mpe okobulisa ye n'etondo asalela ngai lokola nganga e bonyambe.
+
+\v 14
+
+\v 15
+
+\v 16 Okoya bisa na bana ba bampele ba ye, mpe okoswisa bango kasaka (monkoto). okosinga bango malasi lokola ekeleli yo sango e bango n'etondo ete basalela ngai lokola banganga. Mpe ekosingala yo bango malasi okobawelisa o lotomo bonganga weki na mabota ma bango manco.  Mosi akelaki se bongo; ye akelaki se manco malakelaki ye Yawe.
+
+\v 17
+
+\v 18
+
+\v 19
+
+\v 20 O eyeli e boso e mobu mo bibale o busa bo boso bo eyeli batemisi mongombo. Mosi atemisi mongombo; ye alakisi bitemelo bi mongo mpe atemisi moboko mo mongo mpe ye awelisi bitomba bisanda bi miete o mongo mpe atemisi mapata nkako na nkako. Ye abendi hema o likolo li mongombo, mpe bisa ateli ekuki o likolo li hema, lokola emosikiseli Yawe. Mpe ye akuli motato moko na moko mpe ateli mingo o moyi mo kobele e mibeko mpe ateli miete minya o likolo li nkobele e mibeko, mpe apoti yengo na epotele e yengo.
+
+\v 21
+
+\v 22
+
+\v 23 Ye awelisi nkobele e mibeko o moyi mo mongombo mpe bisa alingi yengo na bitomba bi bilamba. S'ete nde e molobeli Yawe. Mosi ateli mesa o moyi mo hema (ndako e moyongano); o lokenge lo likolo li mongombo na mpe o ndanda e elamba.  Alengeli mampa n'etondo ebonzela Nyambe, lokola mosikiso mombe Yawe ombe Mosi.
+
+\v 24
+
+\v 25 Atemisi bitemiselo bi mpaka o ndako e moyongano, o lokenge lo sudu, o boso bo mesa, alolisi mpaka, o boso bombe Nyambe, s'ete nde elobi Yawe na Mosi.
+
+\v 26
+
+\v 27 Ye ateli etumbelo e wolo o ndako e moyongano o boso bo ba lido (bilamba bikopoto munya mo ndako) binga o ndanda na mpe omoyi mo ndako. Mpe ye atumbi mpaka na malasi, lokola se elobeli Yawe Mosi.
+
+\v 28
+
+\v 29
+
+\v 30 Ye ateli elamba o ekuki e mongombo o nongo e yengo.  Ye ateli etumbelo e mbeka e botumbi o lokenge lo mongombo na mpe o ndako e moyongano, mpe ye atumbi mbeka e botumbi na mpe bisa mbeka e boli o likolo li yengo, lokola se mosikiso mo mbe Yawe ombe Mosi.    Ye ateli sani en'e mabaya o moyi mo ndako e moyongano na mpe o etumbelo, mpe ateli mayi o moyi mo yengo n'etondo e sosa.
+
+\v 31
+
+\v 32
+
+\v 33 Mosi na Alona na mpe bana ba bampele ba ye bapongi maboko ma bango o yengo. Bongo eweli bango o ndako e moyongano, mpe bisa epusani bango o etumbelo, basosi se lokola elobeli Yawe Mosi. Ye atongi lopangu n'etondo elinga mongombo na mpe etumbelo, mpe ateli lido (elamba) o ekuki na o lopangu lokolinga mongombo. Bongo Mosi asilisi lotomo lo ye.
+
+\v 34
+
+\v 35 Mankembo mambe Nyambe malingi Mongombo (Mit 9: 15 - 23)
+
+O mbis'enya lipata liyi nolinga ndako e moyongano, mpe mankembo mambe Yawe mangengisi (mazongi) mongombo.  Mosi aliki bisa toyisa nowele o ndako e moyongano nowela lipata linya likula elembe esanda o likolo li ndako e moyongano mpe mankembo mambe Yawe maliki (manwalisa) mongombo.
+
+\v 36
+
+\v 37
+
+\v 38 O elembe ekeki bango (bana ba Yisalaele) mibembo batemeneki o nzela se nkomo lipata linya lilongwi o likolo li mongombo; bato ba Yisalaele bakeki bango se o boso. Ndiki se lipata lizali tolongwa, bango banga totambola weki n'ekolongwaka lingo. Nowela o mibembo minco mibembaki bango lipata limbe Yawe liliki na bango o likolo li mongombo, o elemb'e mwese, mpe eloli e meya eliki o lingo na mokolo ( elembe ekoyinda busa), mpe lilolaki na mokolo, mpe liliki na bana ba Yisalaele o nzela e bango e mobembo
 
